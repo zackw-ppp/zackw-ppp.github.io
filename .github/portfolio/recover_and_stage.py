@@ -114,7 +114,7 @@ def main():
     if git(root, "branch", "--show-current").stdout.strip() != BRANCH:
         raise RuntimeError("Unexpected checkout branch")
     manifest = json.loads(Path(sys.argv[1]).read_text())
-    if manifest.get("version") != 1 or manifest.get("sourceBase") != BASE or len(manifest.get("files", [])) != 376:
+    if manifest.get("version") != 1 or manifest.get("sourceBase") != BASE or len(manifest.get("files", [])) != 380:
         raise ValueError("Unexpected deployment manifest")
     entries = manifest["files"]
     seen = set()
@@ -136,6 +136,8 @@ def main():
             if not path.is_file() or path.stat().st_size != entry["bytes"]:
                 raise ValueError("Existing file differs in size: " + entry["path"])
         else:
+            if entry["path"] in manifest.get("repositoryOnlyFiles", []):
+                raise ValueError("Repository-owned public file is missing: " + entry["path"])
             missing.append(entry)
     print(json.dumps({"manifestFiles": len(entries), "recoverFiles": len(missing),
                       "recoverBytes": sum(entry["bytes"] for entry in missing)}), flush=True)
