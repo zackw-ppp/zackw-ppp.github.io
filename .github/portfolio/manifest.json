@@ -1,0 +1,1886 @@
+{
+  "version": 1,
+  "sourceBase": "https://ec0b540d.zackwang.pages.dev",
+  "files": [
+    {
+      "path": ".nojekyll",
+      "source": null,
+      "bytes": 0
+    },
+    {
+      "path": "404.html",
+      "source": "404.html",
+      "bytes": 5806
+    },
+    {
+      "path": "_next/static/5802bff0-9c1b-4025-8f60-2896e642184e/_buildManifest.js",
+      "source": "_next/static/5802bff0-9c1b-4025-8f60-2896e642184e/_buildManifest.js",
+      "bytes": 159
+    },
+    {
+      "path": "_next/static/5802bff0-9c1b-4025-8f60-2896e642184e/_ssgManifest.js",
+      "source": "_next/static/5802bff0-9c1b-4025-8f60-2896e642184e/_ssgManifest.js",
+      "bytes": 76
+    },
+    {
+      "path": "_next/static/chunks/AboutPage-C0JJ2thw.js",
+      "source": "_next/static/chunks/AboutPage-C0JJ2thw.js",
+      "bytes": 9750
+    },
+    {
+      "path": "_next/static/chunks/CaseContents-sEfKMkES.js",
+      "source": "_next/static/chunks/CaseContents-sEfKMkES.js",
+      "bytes": 1100
+    },
+    {
+      "path": "_next/static/chunks/CharterCompare-Da0ysFwx.js",
+      "source": "_next/static/chunks/CharterCompare-Da0ysFwx.js",
+      "bytes": 1208
+    },
+    {
+      "path": "_next/static/chunks/FinalDeliveryToggle-Cu1BALq2.js",
+      "source": "_next/static/chunks/FinalDeliveryToggle-Cu1BALq2.js",
+      "bytes": 692
+    },
+    {
+      "path": "_next/static/chunks/HomeWorkFilter-CSV1idXB.js",
+      "source": "_next/static/chunks/HomeWorkFilter-CSV1idXB.js",
+      "bytes": 8383
+    },
+    {
+      "path": "_next/static/chunks/ImfVideo-BdgXMT81.js",
+      "source": "_next/static/chunks/ImfVideo-BdgXMT81.js",
+      "bytes": 983
+    },
+    {
+      "path": "_next/static/chunks/LanguageSwitcher-B6pfVIrC.js",
+      "source": "_next/static/chunks/LanguageSwitcher-B6pfVIrC.js",
+      "bytes": 2151
+    },
+    {
+      "path": "_next/static/chunks/RevealController-DOBgPWjU.js",
+      "source": "_next/static/chunks/RevealController-DOBgPWjU.js",
+      "bytes": 898
+    },
+    {
+      "path": "_next/static/chunks/SiteHeader-CJ1PdMpo.js",
+      "source": "_next/static/chunks/SiteHeader-CJ1PdMpo.js",
+      "bytes": 3239
+    },
+    {
+      "path": "_next/static/chunks/ViewportVideo-BbFH3w0v.js",
+      "source": "_next/static/chunks/ViewportVideo-BbFH3w0v.js",
+      "bytes": 1167
+    },
+    {
+      "path": "_next/static/chunks/framework-BgSIrAUN.js",
+      "source": "_next/static/chunks/framework-BgSIrAUN.js",
+      "bytes": 190152
+    },
+    {
+      "path": "_next/static/chunks/index-BYYbKY8Q.js",
+      "source": "_next/static/chunks/index-BYYbKY8Q.js",
+      "bytes": 186461
+    },
+    {
+      "path": "_next/static/chunks/layout-segment-context-ClMC8D54.js",
+      "source": "_next/static/chunks/layout-segment-context-ClMC8D54.js",
+      "bytes": 494
+    },
+    {
+      "path": "_next/static/chunks/rolldown-runtime-C60lm6uB.js",
+      "source": "_next/static/chunks/rolldown-runtime-C60lm6uB.js",
+      "bytes": 694
+    },
+    {
+      "path": "_next/static/chunks/ui-copy-DyP3WXlX.js",
+      "source": "_next/static/chunks/ui-copy-DyP3WXlX.js",
+      "bytes": 781
+    },
+    {
+      "path": "_next/static/css/index.CnFqmEJL.css",
+      "source": "_next/static/css/index.CnFqmEJL.css",
+      "bytes": 67688
+    },
+    {
+      "path": "_next/static/css/page.3C4RFWLA.css",
+      "source": "_next/static/css/page.3C4RFWLA.css",
+      "bytes": 4802
+    },
+    {
+      "path": "_next/static/css/page.BQ9fdxMV.css",
+      "source": "_next/static/css/page.BQ9fdxMV.css",
+      "bytes": 35972
+    },
+    {
+      "path": "_next/static/css/page.BnWDekJv.css",
+      "source": "_next/static/css/page.BnWDekJv.css",
+      "bytes": 14230
+    },
+    {
+      "path": "_next/static/css/page.CemYTqvo.css",
+      "source": "_next/static/css/page.CemYTqvo.css",
+      "bytes": 3792
+    },
+    {
+      "path": "_next/static/css/page.DGivjev_.css",
+      "source": "_next/static/css/page.DGivjev_.css",
+      "bytes": 3717
+    },
+    {
+      "path": "_next/static/css/page.LTrK35Vq.css",
+      "source": "_next/static/css/page.LTrK35Vq.css",
+      "bytes": 38851
+    },
+    {
+      "path": "_next/static/css/page.c9Dgg_YT.css",
+      "source": "_next/static/css/page.c9Dgg_YT.css",
+      "bytes": 21471
+    },
+    {
+      "path": "about/index.html",
+      "source": "about.html",
+      "bytes": 27252
+    },
+    {
+      "path": "about.html",
+      "source": "about.html",
+      "bytes": 27252
+    },
+    {
+      "path": "about.rsc",
+      "source": "about.rsc",
+      "bytes": 8131
+    },
+    {
+      "path": "assets/fonts/-nFhOHM81r4j6k0gjAW3mujVU2B2G_VB0PD2.woff2",
+      "source": "assets/fonts/-nFhOHM81r4j6k0gjAW3mujVU2B2G_VB0PD2.woff2",
+      "bytes": 24572
+    },
+    {
+      "path": "assets/fonts/-nFhOHM81r4j6k0gjAW3mujVU2B2G_VB3vD212k.woff2",
+      "source": "assets/fonts/-nFhOHM81r4j6k0gjAW3mujVU2B2G_VB3vD212k.woff2",
+      "bytes": 11124
+    },
+    {
+      "path": "assets/fonts/1K3W8DizY3v4emK8Mb08YHxTbs.woff2",
+      "source": "assets/fonts/1K3W8DizY3v4emK8Mb08YHxTbs.woff2",
+      "bytes": 4628
+    },
+    {
+      "path": "assets/fonts/1Ptgg87LROyAm3K8-C8QSw.woff2",
+      "source": "assets/fonts/1Ptgg87LROyAm3K8-C8QSw.woff2",
+      "bytes": 8680
+    },
+    {
+      "path": "assets/fonts/1Ptgg87LROyAm3K9-C8QSw.woff2",
+      "source": "assets/fonts/1Ptgg87LROyAm3K9-C8QSw.woff2",
+      "bytes": 31356
+    },
+    {
+      "path": "assets/fonts/1Ptgg87LROyAm3Kz-C8.woff2",
+      "source": "assets/fonts/1Ptgg87LROyAm3Kz-C8.woff2",
+      "bytes": 18612
+    },
+    {
+      "path": "assets/fonts/2A4Xx7CngadFGlVV4xrO06OBHY.woff2",
+      "source": "assets/fonts/2A4Xx7CngadFGlVV4xrO06OBHY.woff2",
+      "bytes": 4236
+    },
+    {
+      "path": "assets/fonts/43sJ6MfOPh1LCJt46OvyDuSbA6o.woff2",
+      "source": "assets/fonts/43sJ6MfOPh1LCJt46OvyDuSbA6o.woff2",
+      "bytes": 4960
+    },
+    {
+      "path": "assets/fonts/4RAEQdEOrcnDkhHiiCbJOw92Lk.woff2",
+      "source": "assets/fonts/4RAEQdEOrcnDkhHiiCbJOw92Lk.woff2",
+      "bytes": 7080
+    },
+    {
+      "path": "assets/fonts/5A3Ce6C9YYmCjpQx9M4inSaKU.woff2",
+      "source": "assets/fonts/5A3Ce6C9YYmCjpQx9M4inSaKU.woff2",
+      "bytes": 8956
+    },
+    {
+      "path": "assets/fonts/5vvr9Vy74if2I6bQbJvbw7SY1pQ.woff2",
+      "source": "assets/fonts/5vvr9Vy74if2I6bQbJvbw7SY1pQ.woff2",
+      "bytes": 8896
+    },
+    {
+      "path": "assets/fonts/6FI2EneKzM3qBy5foOZXey7coCA.woff2",
+      "source": "assets/fonts/6FI2EneKzM3qBy5foOZXey7coCA.woff2",
+      "bytes": 27624
+    },
+    {
+      "path": "assets/fonts/6mJuEAguuIuMog10gGvH5d3cl8.woff2",
+      "source": "assets/fonts/6mJuEAguuIuMog10gGvH5d3cl8.woff2",
+      "bytes": 4644
+    },
+    {
+      "path": "assets/fonts/DolVirEGb34pEXEp8t8FQBSK4.woff2",
+      "source": "assets/fonts/DolVirEGb34pEXEp8t8FQBSK4.woff2",
+      "bytes": 4288
+    },
+    {
+      "path": "assets/fonts/DpPBYI0sL4fYLgAkX8KXOPVt7c.woff2",
+      "source": "assets/fonts/DpPBYI0sL4fYLgAkX8KXOPVt7c.woff2",
+      "bytes": 8892
+    },
+    {
+      "path": "assets/fonts/EOr0mi4hNtlgWNn9if640EZzXCo.woff2",
+      "source": "assets/fonts/EOr0mi4hNtlgWNn9if640EZzXCo.woff2",
+      "bytes": 7116
+    },
+    {
+      "path": "assets/fonts/GIryZETIX4IFypco5pYZONKhJIo.woff2",
+      "source": "assets/fonts/GIryZETIX4IFypco5pYZONKhJIo.woff2",
+      "bytes": 4268
+    },
+    {
+      "path": "assets/fonts/GrgcKwrN6d3Uz8EwcLHZxwEfC4.woff2",
+      "source": "assets/fonts/GrgcKwrN6d3Uz8EwcLHZxwEfC4.woff2",
+      "bytes": 27380
+    },
+    {
+      "path": "assets/fonts/H89BbHkbHDzlxZzxi8uPzTsp90.woff2",
+      "source": "assets/fonts/H89BbHkbHDzlxZzxi8uPzTsp90.woff2",
+      "bytes": 9564
+    },
+    {
+      "path": "assets/fonts/JTUSjIg1_i6t8kCHKm459W1hyzbi.woff2",
+      "source": "assets/fonts/JTUSjIg1_i6t8kCHKm459W1hyzbi.woff2",
+      "bytes": 23828
+    },
+    {
+      "path": "assets/fonts/JTUSjIg1_i6t8kCHKm459WRhyzbi.woff2",
+      "source": "assets/fonts/JTUSjIg1_i6t8kCHKm459WRhyzbi.woff2",
+      "bytes": 26368
+    },
+    {
+      "path": "assets/fonts/JTUSjIg1_i6t8kCHKm459WZhyzbi.woff2",
+      "source": "assets/fonts/JTUSjIg1_i6t8kCHKm459WZhyzbi.woff2",
+      "bytes": 12928
+    },
+    {
+      "path": "assets/fonts/JTUSjIg1_i6t8kCHKm459Wdhyzbi.woff2",
+      "source": "assets/fonts/JTUSjIg1_i6t8kCHKm459Wdhyzbi.woff2",
+      "bytes": 70688
+    },
+    {
+      "path": "assets/fonts/JTUSjIg1_i6t8kCHKm459Wlhyw.woff2",
+      "source": "assets/fonts/JTUSjIg1_i6t8kCHKm459Wlhyw.woff2",
+      "bytes": 37956
+    },
+    {
+      "path": "assets/fonts/JeYwfuaPfZHQhEG8U5gtPDZ7WQ.woff2",
+      "source": "assets/fonts/JeYwfuaPfZHQhEG8U5gtPDZ7WQ.woff2",
+      "bytes": 25348
+    },
+    {
+      "path": "assets/fonts/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3-UBGEe.woff2",
+      "source": "assets/fonts/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3-UBGEe.woff2",
+      "bytes": 17624
+    },
+    {
+      "path": "assets/fonts/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3CUBGEe.woff2",
+      "source": "assets/fonts/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3CUBGEe.woff2",
+      "bytes": 4348
+    },
+    {
+      "path": "assets/fonts/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3GUBGEe.woff2",
+      "source": "assets/fonts/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3GUBGEe.woff2",
+      "bytes": 36652
+    },
+    {
+      "path": "assets/fonts/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3KUBGEe.woff2",
+      "source": "assets/fonts/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3KUBGEe.woff2",
+      "bytes": 29392
+    },
+    {
+      "path": "assets/fonts/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3OUBGEe.woff2",
+      "source": "assets/fonts/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3OUBGEe.woff2",
+      "bytes": 14340
+    },
+    {
+      "path": "assets/fonts/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3iUBGEe.woff2",
+      "source": "assets/fonts/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3iUBGEe.woff2",
+      "bytes": 23664
+    },
+    {
+      "path": "assets/fonts/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBA.woff2",
+      "source": "assets/fonts/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBA.woff2",
+      "bytes": 43136
+    },
+    {
+      "path": "assets/fonts/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMawCUBGEe.woff2",
+      "source": "assets/fonts/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMawCUBGEe.woff2",
+      "bytes": 41348
+    },
+    {
+      "path": "assets/fonts/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMaxKUBGEe.woff2",
+      "source": "assets/fonts/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMaxKUBGEe.woff2",
+      "bytes": 20556
+    },
+    {
+      "path": "assets/fonts/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZtalmQiArmlw.woff2",
+      "source": "assets/fonts/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZtalmQiArmlw.woff2",
+      "bytes": 12284
+    },
+    {
+      "path": "assets/fonts/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZtalmUiAo.woff2",
+      "source": "assets/fonts/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZtalmUiAo.woff2",
+      "bytes": 21916
+    },
+    {
+      "path": "assets/fonts/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZtalmXiArmlw.woff2",
+      "source": "assets/fonts/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZtalmXiArmlw.woff2",
+      "bytes": 9616
+    },
+    {
+      "path": "assets/fonts/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZtalmYiArmlw.woff2",
+      "source": "assets/fonts/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZtalmYiArmlw.woff2",
+      "bytes": 3692
+    },
+    {
+      "path": "assets/fonts/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZtalmZiArmlw.woff2",
+      "source": "assets/fonts/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZtalmZiArmlw.woff2",
+      "bytes": 17448
+    },
+    {
+      "path": "assets/fonts/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZtalmaiArmlw.woff2",
+      "source": "assets/fonts/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZtalmaiArmlw.woff2",
+      "bytes": 15048
+    },
+    {
+      "path": "assets/fonts/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZtalmbiArmlw.woff2",
+      "source": "assets/fonts/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZtalmbiArmlw.woff2",
+      "bytes": 8368
+    },
+    {
+      "path": "assets/fonts/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZtaln6iArmlw.woff2",
+      "source": "assets/fonts/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZtaln6iArmlw.woff2",
+      "bytes": 10780
+    },
+    {
+      "path": "assets/fonts/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZtalnoiArmlw.woff2",
+      "source": "assets/fonts/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZtalnoiArmlw.woff2",
+      "bytes": 20140
+    },
+    {
+      "path": "assets/fonts/NHHeAKJVP0ZWHk5YZnQQChIsBM.woff2",
+      "source": "assets/fonts/NHHeAKJVP0ZWHk5YZnQQChIsBM.woff2",
+      "bytes": 4276
+    },
+    {
+      "path": "assets/fonts/OYrD2tBIBPvoJXiIHnLoOXnY9M.woff2",
+      "source": "assets/fonts/OYrD2tBIBPvoJXiIHnLoOXnY9M.woff2",
+      "bytes": 6652
+    },
+    {
+      "path": "assets/fonts/Qx95Xyt0Ka3SGhinnbXIGpEIyP4.woff2",
+      "source": "assets/fonts/Qx95Xyt0Ka3SGhinnbXIGpEIyP4.woff2",
+      "bytes": 7176
+    },
+    {
+      "path": "assets/fonts/UjlFhCnUjxhNfep4oYBPqnEssyo.woff2",
+      "source": "assets/fonts/UjlFhCnUjxhNfep4oYBPqnEssyo.woff2",
+      "bytes": 27996
+    },
+    {
+      "path": "assets/fonts/VgYFWiwsAC5OYxAycRXXvhze58.woff2",
+      "source": "assets/fonts/VgYFWiwsAC5OYxAycRXXvhze58.woff2",
+      "bytes": 26076
+    },
+    {
+      "path": "assets/fonts/WZ367JPwf9bRW6LdTHN8rXgSjw.woff2",
+      "source": "assets/fonts/WZ367JPwf9bRW6LdTHN8rXgSjw.woff2",
+      "bytes": 27736
+    },
+    {
+      "path": "assets/fonts/Y9k9QrlZAqio88Klkmbd8VoMQc.woff2",
+      "source": "assets/fonts/Y9k9QrlZAqio88Klkmbd8VoMQc.woff2",
+      "bytes": 4504
+    },
+    {
+      "path": "assets/fonts/aFTR7PB1QTsUX8KYvumzEY2tbZX9.woff2",
+      "source": "assets/fonts/aFTR7PB1QTsUX8KYvumzEY2tbZX9.woff2",
+      "bytes": 9616
+    },
+    {
+      "path": "assets/fonts/aFTR7PB1QTsUX8KYvumzEYOtbQ.woff2",
+      "source": "assets/fonts/aFTR7PB1QTsUX8KYvumzEYOtbQ.woff2",
+      "bytes": 14988
+    },
+    {
+      "path": "assets/fonts/aFTT7PB1QTsUX8KYth-o9YedYY35Zlk.woff2",
+      "source": "assets/fonts/aFTT7PB1QTsUX8KYth-o9YedYY35Zlk.woff2",
+      "bytes": 10108
+    },
+    {
+      "path": "assets/fonts/aFTT7PB1QTsUX8KYth-o9Yedb435.woff2",
+      "source": "assets/fonts/aFTT7PB1QTsUX8KYth-o9Yedb435.woff2",
+      "bytes": 16136
+    },
+    {
+      "path": "assets/fonts/aFTU7PB1QTsUX8KYthSQBLyM.woff2",
+      "source": "assets/fonts/aFTU7PB1QTsUX8KYthSQBLyM.woff2",
+      "bytes": 9552
+    },
+    {
+      "path": "assets/fonts/aFTU7PB1QTsUX8KYthqQBA.woff2",
+      "source": "assets/fonts/aFTU7PB1QTsUX8KYthqQBA.woff2",
+      "bytes": 14820
+    },
+    {
+      "path": "assets/fonts/aFTW7PB1QTsUX8KYth-gBqSI.woff2",
+      "source": "assets/fonts/aFTW7PB1QTsUX8KYth-gBqSI.woff2",
+      "bytes": 16012
+    },
+    {
+      "path": "assets/fonts/aFTW7PB1QTsUX8KYth-gCKSIUKw.woff2",
+      "source": "assets/fonts/aFTW7PB1QTsUX8KYth-gCKSIUKw.woff2",
+      "bytes": 9984
+    },
+    {
+      "path": "assets/fonts/b6Y37FthZeALduNqHicBT6FutY.woff2",
+      "source": "assets/fonts/b6Y37FthZeALduNqHicBT6FutY.woff2",
+      "bytes": 4168
+    },
+    {
+      "path": "assets/fonts/b8ezwLrN7h2AUoPEENcsTMVJ0.woff2",
+      "source": "assets/fonts/b8ezwLrN7h2AUoPEENcsTMVJ0.woff2",
+      "bytes": 4948
+    },
+    {
+      "path": "assets/fonts/fuyXZpVvOjq8NesCOfgirHCWyg.woff2",
+      "source": "assets/fonts/fuyXZpVvOjq8NesCOfgirHCWyg.woff2",
+      "bytes": 30176
+    },
+    {
+      "path": "assets/fonts/ia3uin3hQWqDrVloC1zEtYHWw.woff2",
+      "source": "assets/fonts/ia3uin3hQWqDrVloC1zEtYHWw.woff2",
+      "bytes": 30368
+    },
+    {
+      "path": "assets/fonts/mvNEIBLyHbscgHtwfsByjXUz3XY.woff2",
+      "source": "assets/fonts/mvNEIBLyHbscgHtwfsByjXUz3XY.woff2",
+      "bytes": 7332
+    },
+    {
+      "path": "assets/fonts/otTaNuNpVK4RbdlT7zDDdKvQBA.woff2",
+      "source": "assets/fonts/otTaNuNpVK4RbdlT7zDDdKvQBA.woff2",
+      "bytes": 26264
+    },
+    {
+      "path": "assets/fonts/portfolio-pingfang-sc-bold.subset.woff2",
+      "source": "assets/fonts/portfolio-pingfang-sc-bold.subset.woff2",
+      "bytes": 156920
+    },
+    {
+      "path": "assets/fonts/portfolio-pingfang-sc-heavy.subset.woff2",
+      "source": "assets/fonts/portfolio-pingfang-sc-heavy.subset.woff2",
+      "bytes": 154984
+    },
+    {
+      "path": "assets/fonts/rP2Wp2ywxg089UriCZaSExd86J3t9jz86MvyyKK58VXh.woff2",
+      "source": "assets/fonts/rP2Wp2ywxg089UriCZaSExd86J3t9jz86MvyyKK58VXh.woff2",
+      "bytes": 20808
+    },
+    {
+      "path": "assets/fonts/rP2Wp2ywxg089UriCZaSExd86J3t9jz86MvyyKy58Q.woff2",
+      "source": "assets/fonts/rP2Wp2ywxg089UriCZaSExd86J3t9jz86MvyyKy58Q.woff2",
+      "bytes": 39712
+    },
+    {
+      "path": "assets/fonts/rP2Yp2ywxg089UriI5-g4vlH9VoD8Cmcqbu0-K4.woff2",
+      "source": "assets/fonts/rP2Yp2ywxg089UriI5-g4vlH9VoD8Cmcqbu0-K4.woff2",
+      "bytes": 36932
+    },
+    {
+      "path": "assets/fonts/rP2Yp2ywxg089UriI5-g4vlH9VoD8Cmcqbu6-K6h9Q.woff2",
+      "source": "assets/fonts/rP2Yp2ywxg089UriI5-g4vlH9VoD8Cmcqbu6-K6h9Q.woff2",
+      "bytes": 18228
+    },
+    {
+      "path": "assets/fonts/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat-JDW32RmYJpso5.woff2",
+      "source": "assets/fonts/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat-JDW32RmYJpso5.woff2",
+      "bytes": 24632
+    },
+    {
+      "path": "assets/fonts/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat8gCl30TGc.woff2",
+      "source": "assets/fonts/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat8gCl30TGc.woff2",
+      "bytes": 15224
+    },
+    {
+      "path": "assets/fonts/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat8gCl36TGc5pg.woff2",
+      "source": "assets/fonts/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat8gCl36TGc5pg.woff2",
+      "bytes": 8188
+    },
+    {
+      "path": "assets/fonts/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat9uCm32RmYJpso5.woff2",
+      "source": "assets/fonts/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat9uCm32RmYJpso5.woff2",
+      "bytes": 24944
+    },
+    {
+      "path": "assets/fonts/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAC5tRR232VGM.woff2",
+      "source": "assets/fonts/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAC5tRR232VGM.woff2",
+      "bytes": 7448
+    },
+    {
+      "path": "assets/fonts/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAC5tRSW32.woff2",
+      "source": "assets/fonts/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAC5tRSW32.woff2",
+      "bytes": 14232
+    },
+    {
+      "path": "assets/fonts/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwARZthS2f3ZGMZpg.woff2",
+      "source": "assets/fonts/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwARZthS2f3ZGMZpg.woff2",
+      "bytes": 22204
+    },
+    {
+      "path": "assets/fonts/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAopxhS2f3ZGMZpg.woff2",
+      "source": "assets/fonts/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAopxhS2f3ZGMZpg.woff2",
+      "bytes": 21828
+    },
+    {
+      "path": "assets/fonts/source-sans-3/SourceSans3-OFL.txt",
+      "source": "assets/fonts/source-sans-3/SourceSans3-OFL.txt",
+      "bytes": 4579
+    },
+    {
+      "path": "assets/fonts/source-sans-3/nwpStKy2OAdR1K-IwhWudF-R3w8aZQ.woff2",
+      "source": "assets/fonts/source-sans-3/nwpStKy2OAdR1K-IwhWudF-R3w8aZQ.woff2",
+      "bytes": 28740
+    },
+    {
+      "path": "assets/fonts/source-sans-3/nwpStKy2OAdR1K-IwhWudF-R3wAaZfrc.woff2",
+      "source": "assets/fonts/source-sans-3/nwpStKy2OAdR1K-IwhWudF-R3wAaZfrc.woff2",
+      "bytes": 10324
+    },
+    {
+      "path": "assets/fonts/source-sans-3/nwpStKy2OAdR1K-IwhWudF-R3wEaZfrc.woff2",
+      "source": "assets/fonts/source-sans-3/nwpStKy2OAdR1K-IwhWudF-R3wEaZfrc.woff2",
+      "bytes": 60088
+    },
+    {
+      "path": "assets/fonts/source-sans-3/nwpStKy2OAdR1K-IwhWudF-R3wIaZfrc.woff2",
+      "source": "assets/fonts/source-sans-3/nwpStKy2OAdR1K-IwhWudF-R3wIaZfrc.woff2",
+      "bytes": 10676
+    },
+    {
+      "path": "assets/fonts/source-sans-3/nwpStKy2OAdR1K-IwhWudF-R3wMaZfrc.woff2",
+      "source": "assets/fonts/source-sans-3/nwpStKy2OAdR1K-IwhWudF-R3wMaZfrc.woff2",
+      "bytes": 9784
+    },
+    {
+      "path": "assets/fonts/source-sans-3/nwpStKy2OAdR1K-IwhWudF-R3wsaZfrc.woff2",
+      "source": "assets/fonts/source-sans-3/nwpStKy2OAdR1K-IwhWudF-R3wsaZfrc.woff2",
+      "bytes": 18496
+    },
+    {
+      "path": "assets/fonts/source-sans-3/nwpStKy2OAdR1K-IwhWudF-R3wwaZfrc.woff2",
+      "source": "assets/fonts/source-sans-3/nwpStKy2OAdR1K-IwhWudF-R3wwaZfrc.woff2",
+      "bytes": 14600
+    },
+    {
+      "path": "assets/fonts/source-sans-3/source-sans-3.css",
+      "source": "assets/fonts/source-sans-3/source-sans-3.css",
+      "bytes": 7312
+    },
+    {
+      "path": "assets/fonts/syRNPWzAMIrcJ3wIlPIP43KjQs.woff2",
+      "source": "assets/fonts/syRNPWzAMIrcJ3wIlPIP43KjQs.woff2",
+      "bytes": 27900
+    },
+    {
+      "path": "assets/fonts/tUSCtfYVM1I1IchuyCwz9gDdQ.woff2",
+      "source": "assets/fonts/tUSCtfYVM1I1IchuyCwz9gDdQ.woff2",
+      "bytes": 6672
+    },
+    {
+      "path": "assets/fonts/u6gJwDuwB143kpNK1T1MDKDWkMc.woff2",
+      "source": "assets/fonts/u6gJwDuwB143kpNK1T1MDKDWkMc.woff2",
+      "bytes": 7556
+    },
+    {
+      "path": "assets/fonts/vxBnBhH8768IFAXAb4Qf6wQHKs.woff2",
+      "source": "assets/fonts/vxBnBhH8768IFAXAb4Qf6wQHKs.woff2",
+      "bytes": 9524
+    },
+    {
+      "path": "assets/fonts/wccHG0r4gBDAIRhfHiOlq6oEkqw.woff2",
+      "source": "assets/fonts/wccHG0r4gBDAIRhfHiOlq6oEkqw.woff2",
+      "bytes": 7360
+    },
+    {
+      "path": "assets/fonts/xYYWaj7wCU5zSQH0eXvSaS19wo.woff2",
+      "source": "assets/fonts/xYYWaj7wCU5zSQH0eXvSaS19wo.woff2",
+      "bytes": 6676
+    },
+    {
+      "path": "assets/fonts/zSsEuoJdh8mcFVk976C05ZfQr8.woff2",
+      "source": "assets/fonts/zSsEuoJdh8mcFVk976C05ZfQr8.woff2",
+      "bytes": 7540
+    },
+    {
+      "path": "assets/manifest.json",
+      "source": "assets/manifest.json",
+      "bytes": 336896
+    },
+    {
+      "path": "assets/media/0fNMTG8LEm1RxWxppv4BejRkKDU.png",
+      "source": "assets/media/0fNMTG8LEm1RxWxppv4BejRkKDU.png",
+      "bytes": 765
+    },
+    {
+      "path": "assets/media/0g1laHvRZVXCzLWMn86fcEdAys.jpeg",
+      "source": "assets/media/0g1laHvRZVXCzLWMn86fcEdAys.jpeg",
+      "bytes": 65386
+    },
+    {
+      "path": "assets/media/1QwDqCYyONyh7shYlMm9JQmEXI.png",
+      "source": "assets/media/1QwDqCYyONyh7shYlMm9JQmEXI.png",
+      "bytes": 4281
+    },
+    {
+      "path": "assets/media/1bfhEFfpOakviBkTZJBsgzCt3A.png",
+      "source": "assets/media/1bfhEFfpOakviBkTZJBsgzCt3A.png",
+      "bytes": 200039
+    },
+    {
+      "path": "assets/media/1dldU6vjWWDeqZLwKMpEMyR98.png",
+      "source": "assets/media/1dldU6vjWWDeqZLwKMpEMyR98.png",
+      "bytes": 66657
+    },
+    {
+      "path": "assets/media/1rbgBETuQdnwpooAhMSIZIJMkI.mp4",
+      "source": "assets/media/1rbgBETuQdnwpooAhMSIZIJMkI.mp4",
+      "bytes": 761581
+    },
+    {
+      "path": "assets/media/2TIz96XcV9IFNdMccsDPJeBmxvA.png",
+      "source": "assets/media/2TIz96XcV9IFNdMccsDPJeBmxvA.png",
+      "bytes": 22881
+    },
+    {
+      "path": "assets/media/37hvdDwEYQ8Ed89MRu8A0cdm2M.png",
+      "source": "assets/media/37hvdDwEYQ8Ed89MRu8A0cdm2M.png",
+      "bytes": 441360
+    },
+    {
+      "path": "assets/media/3DvJAW8YXGY79Cf1IhR89hh76o8.png",
+      "source": "assets/media/3DvJAW8YXGY79Cf1IhR89hh76o8.png",
+      "bytes": 172666
+    },
+    {
+      "path": "assets/media/3Fym8gvOom4EFAg6WiOreeleFw.png",
+      "source": "assets/media/3Fym8gvOom4EFAg6WiOreeleFw.png",
+      "bytes": 356592
+    },
+    {
+      "path": "assets/media/3XHSykNLmxphUUV4mC8YcjVt2p0.png",
+      "source": "assets/media/3XHSykNLmxphUUV4mC8YcjVt2p0.png",
+      "bytes": 34906
+    },
+    {
+      "path": "assets/media/3mKTWAzxRdwOnFPEWmW5p1oqxQ4.png",
+      "source": "assets/media/3mKTWAzxRdwOnFPEWmW5p1oqxQ4.png",
+      "bytes": 284501
+    },
+    {
+      "path": "assets/media/47ogQpplTQiRiVe8otGrT5uTatE.png",
+      "source": "assets/media/47ogQpplTQiRiVe8otGrT5uTatE.png",
+      "bytes": 35075
+    },
+    {
+      "path": "assets/media/4HygJsFHVsLn7GpiBo6h7fWeQ.png",
+      "source": "assets/media/4HygJsFHVsLn7GpiBo6h7fWeQ.png",
+      "bytes": 80458
+    },
+    {
+      "path": "assets/media/4jxnNx0fUkARAH2iPqKstmYIM.png",
+      "source": "assets/media/4jxnNx0fUkARAH2iPqKstmYIM.png",
+      "bytes": 147219
+    },
+    {
+      "path": "assets/media/4mX7Aq59Ch7AJ4Mw7pAO0VGl8.png",
+      "source": "assets/media/4mX7Aq59Ch7AJ4Mw7pAO0VGl8.png",
+      "bytes": 361686
+    },
+    {
+      "path": "assets/media/4mji9vCyTE9woAH6HnvAUh0wlp8.png",
+      "source": "assets/media/4mji9vCyTE9woAH6HnvAUh0wlp8.png",
+      "bytes": 117593
+    },
+    {
+      "path": "assets/media/50Lk3q1pcYLyABUEf3ziriDpRM.png",
+      "source": "assets/media/50Lk3q1pcYLyABUEf3ziriDpRM.png",
+      "bytes": 234509
+    },
+    {
+      "path": "assets/media/5FC0Dsz1WdC6yq90KIG1gdDQ90.png",
+      "source": "assets/media/5FC0Dsz1WdC6yq90KIG1gdDQ90.png",
+      "bytes": 30103
+    },
+    {
+      "path": "assets/media/5ILRvlYXf72kHSVHqpa3snGzjU.jpg",
+      "source": "assets/media/5ILRvlYXf72kHSVHqpa3snGzjU.jpg",
+      "bytes": 44557
+    },
+    {
+      "path": "assets/media/5KpfQnIkCVy14uE0bvvSokbilE.png",
+      "source": "assets/media/5KpfQnIkCVy14uE0bvvSokbilE.png",
+      "bytes": 34161
+    },
+    {
+      "path": "assets/media/5N3bAg3ZuSHrO7Olakxu5Pm6g.png",
+      "source": "assets/media/5N3bAg3ZuSHrO7Olakxu5Pm6g.png",
+      "bytes": 369922
+    },
+    {
+      "path": "assets/media/5S2HDE8RJMsLOWOjE3ytAYfkA.png",
+      "source": "assets/media/5S2HDE8RJMsLOWOjE3ytAYfkA.png",
+      "bytes": 15121
+    },
+    {
+      "path": "assets/media/5zkSOPagtaOyTUPggIMIEj5c9c.png",
+      "source": "assets/media/5zkSOPagtaOyTUPggIMIEj5c9c.png",
+      "bytes": 402518
+    },
+    {
+      "path": "assets/media/6NmH0PcxxF64ieOKgwDX4OIFYA.png",
+      "source": "assets/media/6NmH0PcxxF64ieOKgwDX4OIFYA.png",
+      "bytes": 89893
+    },
+    {
+      "path": "assets/media/6RDFTp9Sd0vvuqhX0AouiquGYE.png",
+      "source": "assets/media/6RDFTp9Sd0vvuqhX0AouiquGYE.png",
+      "bytes": 94357
+    },
+    {
+      "path": "assets/media/6xMJOGYJwe0KOVEzjW0mvcG0kUk.jpeg",
+      "source": "assets/media/6xMJOGYJwe0KOVEzjW0mvcG0kUk.jpeg",
+      "bytes": 324441
+    },
+    {
+      "path": "assets/media/7y0ujSg9fZ5xvq81FjlAFyCnQ.png",
+      "source": "assets/media/7y0ujSg9fZ5xvq81FjlAFyCnQ.png",
+      "bytes": 200494
+    },
+    {
+      "path": "assets/media/8CbPPAf3Un7zuCb4YIbA3CRP8.jpeg",
+      "source": "assets/media/8CbPPAf3Un7zuCb4YIbA3CRP8.jpeg",
+      "bytes": 267094
+    },
+    {
+      "path": "assets/media/8IMe9nvF8fh4MbyUjMFYBmP6QY.jpeg",
+      "source": "assets/media/8IMe9nvF8fh4MbyUjMFYBmP6QY.jpeg",
+      "bytes": 258709
+    },
+    {
+      "path": "assets/media/8QoSKrLHCKrSXWVQ0IUmLlB6BVA.png",
+      "source": "assets/media/8QoSKrLHCKrSXWVQ0IUmLlB6BVA.png",
+      "bytes": 71115
+    },
+    {
+      "path": "assets/media/8oTRX4m2AgnOHmlbpuUghtBbEEc.png",
+      "source": "assets/media/8oTRX4m2AgnOHmlbpuUghtBbEEc.png",
+      "bytes": 83260
+    },
+    {
+      "path": "assets/media/8xnOPKtLPYn7z6mBx3XduAW9aI.mp4",
+      "source": "assets/media/8xnOPKtLPYn7z6mBx3XduAW9aI.mp4",
+      "bytes": 5589924
+    },
+    {
+      "path": "assets/media/96ajI6vK6AuYf1kjML705rB4.png",
+      "source": "assets/media/96ajI6vK6AuYf1kjML705rB4.png",
+      "bytes": 605763
+    },
+    {
+      "path": "assets/media/9aqV2A6z7ZGVcNnBAFaeEIoBg.png",
+      "source": "assets/media/9aqV2A6z7ZGVcNnBAFaeEIoBg.png",
+      "bytes": 193210
+    },
+    {
+      "path": "assets/media/9zb4KFNKVJ5am7SgRqwqrEAt8.png",
+      "source": "assets/media/9zb4KFNKVJ5am7SgRqwqrEAt8.png",
+      "bytes": 99865
+    },
+    {
+      "path": "assets/media/ACU3YB0R2ue1vwQ9QzKNv58iBqY.png",
+      "source": "assets/media/ACU3YB0R2ue1vwQ9QzKNv58iBqY.png",
+      "bytes": 279323
+    },
+    {
+      "path": "assets/media/AiQ2P54JkLWngcVdkUuHnLwo9I.png",
+      "source": "assets/media/AiQ2P54JkLWngcVdkUuHnLwo9I.png",
+      "bytes": 315884
+    },
+    {
+      "path": "assets/media/BVB1pxdTE2eQ3loF5k9o6YCheY.jpeg",
+      "source": "assets/media/BVB1pxdTE2eQ3loF5k9o6YCheY.jpeg",
+      "bytes": 105966
+    },
+    {
+      "path": "assets/media/BwkFglmYkyAxizCzxBAgGXyD7w.png",
+      "source": "assets/media/BwkFglmYkyAxizCzxBAgGXyD7w.png",
+      "bytes": 655759
+    },
+    {
+      "path": "assets/media/BxH6GpZs6ubPQNZxogk7ZZBnV5U.png",
+      "source": "assets/media/BxH6GpZs6ubPQNZxogk7ZZBnV5U.png",
+      "bytes": 201964
+    },
+    {
+      "path": "assets/media/C4LjyIDcePaa6Y0OqFmqJTBr4.png",
+      "source": "assets/media/C4LjyIDcePaa6Y0OqFmqJTBr4.png",
+      "bytes": 6306
+    },
+    {
+      "path": "assets/media/C6HLwx0aojOqCCFlyTilAjJouE.png",
+      "source": "assets/media/C6HLwx0aojOqCCFlyTilAjJouE.png",
+      "bytes": 541929
+    },
+    {
+      "path": "assets/media/CJeIo2GjDBTDOFTTT5mYUr2R9pA.mp4",
+      "source": "assets/media/CJeIo2GjDBTDOFTTT5mYUr2R9pA.mp4",
+      "bytes": 1409957
+    },
+    {
+      "path": "assets/media/CgGqNfeDF7EqknmoEUdJnhm73E.png",
+      "source": "assets/media/CgGqNfeDF7EqknmoEUdJnhm73E.png",
+      "bytes": 124577
+    },
+    {
+      "path": "assets/media/DBcUXrz6vRNuPbQdynoOfmNr4o.mp4",
+      "source": "assets/media/DBcUXrz6vRNuPbQdynoOfmNr4o.mp4",
+      "bytes": 138796
+    },
+    {
+      "path": "assets/media/EGB59GMV9HvSMq8jAcsK80zVyE.png",
+      "source": "assets/media/EGB59GMV9HvSMq8jAcsK80zVyE.png",
+      "bytes": 2730
+    },
+    {
+      "path": "assets/media/EOpG5n4D1wSERpvx3JwEos0aSZE.gif",
+      "source": "assets/media/EOpG5n4D1wSERpvx3JwEos0aSZE.gif",
+      "bytes": 1741537
+    },
+    {
+      "path": "assets/media/EOquJAnSXPy4Rv0fw7YPqoXoI.png",
+      "source": "assets/media/EOquJAnSXPy4Rv0fw7YPqoXoI.png",
+      "bytes": 285948
+    },
+    {
+      "path": "assets/media/Eq9hzejuuhwaKIPztYiJoxflsJo.png",
+      "source": "assets/media/Eq9hzejuuhwaKIPztYiJoxflsJo.png",
+      "bytes": 252205
+    },
+    {
+      "path": "assets/media/GSOs4yP0bqeWhzqea0qM0e0RqWs.mp4",
+      "source": "assets/media/GSOs4yP0bqeWhzqea0qM0e0RqWs.mp4",
+      "bytes": 304153
+    },
+    {
+      "path": "assets/media/GwpgOXNE4IcSmZRRXZrT8IImkw.png",
+      "source": "assets/media/GwpgOXNE4IcSmZRRXZrT8IImkw.png",
+      "bytes": 822994
+    },
+    {
+      "path": "assets/media/H61EOHx4V482Ai2mHMChNH0gNs.png",
+      "source": "assets/media/H61EOHx4V482Ai2mHMChNH0gNs.png",
+      "bytes": 198522
+    },
+    {
+      "path": "assets/media/HLLxwIkIkHJs1Ys5DnECe5amg.gif",
+      "source": "assets/media/HLLxwIkIkHJs1Ys5DnECe5amg.gif",
+      "bytes": 2023132
+    },
+    {
+      "path": "assets/media/HTZeWRgoGCoCYqlx2uVzI3gX6qk.png",
+      "source": "assets/media/HTZeWRgoGCoCYqlx2uVzI3gX6qk.png",
+      "bytes": 194929
+    },
+    {
+      "path": "assets/media/HVFpAu6NjSUKAti8uQAH5PNpKk.png",
+      "source": "assets/media/HVFpAu6NjSUKAti8uQAH5PNpKk.png",
+      "bytes": 568632
+    },
+    {
+      "path": "assets/media/JMAa9CiMFUzRVCfndzEjaUK82n4.png",
+      "source": "assets/media/JMAa9CiMFUzRVCfndzEjaUK82n4.png",
+      "bytes": 7942
+    },
+    {
+      "path": "assets/media/L7GwenZnUQgmVetIfh8FxIXMGA.png",
+      "source": "assets/media/L7GwenZnUQgmVetIfh8FxIXMGA.png",
+      "bytes": 304258
+    },
+    {
+      "path": "assets/media/LB1c8zomJYon3hry7URIE2AA.png",
+      "source": "assets/media/LB1c8zomJYon3hry7URIE2AA.png",
+      "bytes": 132086
+    },
+    {
+      "path": "assets/media/LKGcgffMWswsKpymAqkEIMwfAo.png",
+      "source": "assets/media/LKGcgffMWswsKpymAqkEIMwfAo.png",
+      "bytes": 2349
+    },
+    {
+      "path": "assets/media/MpSl9LPIHmOBZe8ozRYLPExOUo.png",
+      "source": "assets/media/MpSl9LPIHmOBZe8ozRYLPExOUo.png",
+      "bytes": 83970
+    },
+    {
+      "path": "assets/media/NbbRXvt5Sixu403jhKp1KDtSqs.png",
+      "source": "assets/media/NbbRXvt5Sixu403jhKp1KDtSqs.png",
+      "bytes": 35792
+    },
+    {
+      "path": "assets/media/OA9TK33dAa5sLVhcMLkbRskt0ao.png",
+      "source": "assets/media/OA9TK33dAa5sLVhcMLkbRskt0ao.png",
+      "bytes": 383100
+    },
+    {
+      "path": "assets/media/ORODsjy06zWbLBqajxZQWiWIuI.png",
+      "source": "assets/media/ORODsjy06zWbLBqajxZQWiWIuI.png",
+      "bytes": 96766
+    },
+    {
+      "path": "assets/media/Of7J104FvbbUZSWcVELM8DQ1k.png",
+      "source": "assets/media/Of7J104FvbbUZSWcVELM8DQ1k.png",
+      "bytes": 123658
+    },
+    {
+      "path": "assets/media/OfLjs3YF4gb7kwb5JdrnZiQPk.png",
+      "source": "assets/media/OfLjs3YF4gb7kwb5JdrnZiQPk.png",
+      "bytes": 198253
+    },
+    {
+      "path": "assets/media/OpFBTwkvdfXQaQrG3kpbGpYDZk.png",
+      "source": "assets/media/OpFBTwkvdfXQaQrG3kpbGpYDZk.png",
+      "bytes": 641194
+    },
+    {
+      "path": "assets/media/OznQ5fQT46D6UgHArLLkrxuyWpA.png",
+      "source": "assets/media/OznQ5fQT46D6UgHArLLkrxuyWpA.png",
+      "bytes": 300761
+    },
+    {
+      "path": "assets/media/P3NTdImxudBceWaKxQN03dD47G4.mp4",
+      "source": "assets/media/P3NTdImxudBceWaKxQN03dD47G4.mp4",
+      "bytes": 915958
+    },
+    {
+      "path": "assets/media/P9P2p1NamnTCS0MjLmOvE4RsG4.png",
+      "source": "assets/media/P9P2p1NamnTCS0MjLmOvE4RsG4.png",
+      "bytes": 32964
+    },
+    {
+      "path": "assets/media/PL2q8m08LOlofM5ZHIOOq8V40oM.mp4",
+      "source": "assets/media/PL2q8m08LOlofM5ZHIOOq8V40oM.mp4",
+      "bytes": 563315
+    },
+    {
+      "path": "assets/media/PYT7vgJ99ApPoq3VjxWeO86BCU.png",
+      "source": "assets/media/PYT7vgJ99ApPoq3VjxWeO86BCU.png",
+      "bytes": 124282
+    },
+    {
+      "path": "assets/media/PaePHHx6sGnneatgERs5WxcOGBk.png",
+      "source": "assets/media/PaePHHx6sGnneatgERs5WxcOGBk.png",
+      "bytes": 994
+    },
+    {
+      "path": "assets/media/Pt4a2UKQqqNQRK9ACEjEJrSFIFs.jpeg",
+      "source": "assets/media/Pt4a2UKQqqNQRK9ACEjEJrSFIFs.jpeg",
+      "bytes": 144013
+    },
+    {
+      "path": "assets/media/PwnrI6pI3LqXEnz5bPbGY625XTI.mp4",
+      "source": "assets/media/PwnrI6pI3LqXEnz5bPbGY625XTI.mp4",
+      "bytes": 257001
+    },
+    {
+      "path": "assets/media/QFtarWVsAuL8DcXOuJnqcz0a2c.png",
+      "source": "assets/media/QFtarWVsAuL8DcXOuJnqcz0a2c.png",
+      "bytes": 3557
+    },
+    {
+      "path": "assets/media/Qb0T3Y0hENcY6YYoYOHmKkFVFBY.png",
+      "source": "assets/media/Qb0T3Y0hENcY6YYoYOHmKkFVFBY.png",
+      "bytes": 304076
+    },
+    {
+      "path": "assets/media/Rfr3whLQ0hniJd1LeGzxeAVSls.png",
+      "source": "assets/media/Rfr3whLQ0hniJd1LeGzxeAVSls.png",
+      "bytes": 1731
+    },
+    {
+      "path": "assets/media/S03svlwZklFiP5IDuFXQxGpOhLE.png",
+      "source": "assets/media/S03svlwZklFiP5IDuFXQxGpOhLE.png",
+      "bytes": 97962
+    },
+    {
+      "path": "assets/media/S2yPcZhuQMHwRwPOFPDbbQOPo.png",
+      "source": "assets/media/S2yPcZhuQMHwRwPOFPDbbQOPo.png",
+      "bytes": 5372
+    },
+    {
+      "path": "assets/media/SDILASVlzZx2jpDnElwbvaTmr4.png",
+      "source": "assets/media/SDILASVlzZx2jpDnElwbvaTmr4.png",
+      "bytes": 45737
+    },
+    {
+      "path": "assets/media/SaaSKhSFFFXuH94m9Plqh4uTqoo.png",
+      "source": "assets/media/SaaSKhSFFFXuH94m9Plqh4uTqoo.png",
+      "bytes": 113381
+    },
+    {
+      "path": "assets/media/T7u6i67xYw0utfjEQN55tSyoZs.png",
+      "source": "assets/media/T7u6i67xYw0utfjEQN55tSyoZs.png",
+      "bytes": 351075
+    },
+    {
+      "path": "assets/media/TSqlSf2iQ0AlHZjlhbwlwHmt3g.png",
+      "source": "assets/media/TSqlSf2iQ0AlHZjlhbwlwHmt3g.png",
+      "bytes": 1221545
+    },
+    {
+      "path": "assets/media/TjeQUHfIJGOuHctixeAuFgyo0.png",
+      "source": "assets/media/TjeQUHfIJGOuHctixeAuFgyo0.png",
+      "bytes": 1782
+    },
+    {
+      "path": "assets/media/TxnB7qm3MWcU9gyu1CXAKIkqGR8.png",
+      "source": "assets/media/TxnB7qm3MWcU9gyu1CXAKIkqGR8.png",
+      "bytes": 281284
+    },
+    {
+      "path": "assets/media/U4cGY7G3zmlpnqgBOMUaSOAy3hQ.png",
+      "source": "assets/media/U4cGY7G3zmlpnqgBOMUaSOAy3hQ.png",
+      "bytes": 146342
+    },
+    {
+      "path": "assets/media/UGr9jzM9k1T9CHcfr9stHJtwo24.mp4",
+      "source": "assets/media/UGr9jzM9k1T9CHcfr9stHJtwo24.mp4",
+      "bytes": 209826
+    },
+    {
+      "path": "assets/media/UMtOKyeELEyyl9i5DOfNLX0MyLo.png",
+      "source": "assets/media/UMtOKyeELEyyl9i5DOfNLX0MyLo.png",
+      "bytes": 431565
+    },
+    {
+      "path": "assets/media/VHP809IPL886wCYnkb2ttlZ9bcE.png",
+      "source": "assets/media/VHP809IPL886wCYnkb2ttlZ9bcE.png",
+      "bytes": 330343
+    },
+    {
+      "path": "assets/media/VQKNflarhpjfdWfSu7IzXld0Lc.png",
+      "source": "assets/media/VQKNflarhpjfdWfSu7IzXld0Lc.png",
+      "bytes": 113426
+    },
+    {
+      "path": "assets/media/W0bywMRmO8Vp9xN4UfuqUn75v8.png",
+      "source": "assets/media/W0bywMRmO8Vp9xN4UfuqUn75v8.png",
+      "bytes": 188550
+    },
+    {
+      "path": "assets/media/XMb5h40MG3GiPZhW7ux0QoN8e6I.mp4",
+      "source": "assets/media/XMb5h40MG3GiPZhW7ux0QoN8e6I.mp4",
+      "bytes": 911244
+    },
+    {
+      "path": "assets/media/Xmwm71nPchL4hGd9MpsN7h8xnU.mp4",
+      "source": "assets/media/Xmwm71nPchL4hGd9MpsN7h8xnU.mp4",
+      "bytes": 1560958
+    },
+    {
+      "path": "assets/media/XtCb56JwdvxioOV1xFjEyH5OE.png",
+      "source": "assets/media/XtCb56JwdvxioOV1xFjEyH5OE.png",
+      "bytes": 384939
+    },
+    {
+      "path": "assets/media/YU4tQJTGWVIw6JAIvuolkrXLTk.jpeg",
+      "source": "assets/media/YU4tQJTGWVIw6JAIvuolkrXLTk.jpeg",
+      "bytes": 111845
+    },
+    {
+      "path": "assets/media/YekwVemI8V6uBlMDLtX34036g4I.png",
+      "source": "assets/media/YekwVemI8V6uBlMDLtX34036g4I.png",
+      "bytes": 93028
+    },
+    {
+      "path": "assets/media/YinhyDoWhBjQW6iYddXFhU5Kv0.png",
+      "source": "assets/media/YinhyDoWhBjQW6iYddXFhU5Kv0.png",
+      "bytes": 207404
+    },
+    {
+      "path": "assets/media/ZDEQ73o0zFg9F4BpQIufi3VxQQ.png",
+      "source": "assets/media/ZDEQ73o0zFg9F4BpQIufi3VxQQ.png",
+      "bytes": 375969
+    },
+    {
+      "path": "assets/media/ZmG2kpPSWicPGe6UEEPFwSb2q3k.mp4",
+      "source": "assets/media/ZmG2kpPSWicPGe6UEEPFwSb2q3k.mp4",
+      "bytes": 709814
+    },
+    {
+      "path": "assets/media/a0jVT6C4u5YUaCzmwlyr1v0Axw.png",
+      "source": "assets/media/a0jVT6C4u5YUaCzmwlyr1v0Axw.png",
+      "bytes": 68830
+    },
+    {
+      "path": "assets/media/aH2TxyOHSqnN89gAXIBYR7DFyK8.png",
+      "source": "assets/media/aH2TxyOHSqnN89gAXIBYR7DFyK8.png",
+      "bytes": 103047
+    },
+    {
+      "path": "assets/media/aHLMB1i1b9cMRKuIHgVq0Oz4.png",
+      "source": "assets/media/aHLMB1i1b9cMRKuIHgVq0Oz4.png",
+      "bytes": 42317
+    },
+    {
+      "path": "assets/media/acUAxAiy3EkrJJbjJUub0GOVrW0.png",
+      "source": "assets/media/acUAxAiy3EkrJJbjJUub0GOVrW0.png",
+      "bytes": 711923
+    },
+    {
+      "path": "assets/media/awX4yeaSCBklccJUJ5kPZXPuk.png",
+      "source": "assets/media/awX4yeaSCBklccJUJ5kPZXPuk.png",
+      "bytes": 216125
+    },
+    {
+      "path": "assets/media/awive08euRc3TjBBlnEHV8Yxo.png",
+      "source": "assets/media/awive08euRc3TjBBlnEHV8Yxo.png",
+      "bytes": 1319057
+    },
+    {
+      "path": "assets/media/bvtlw9kJdvgiEaVsLENPCXOpoWw.mp4",
+      "source": "assets/media/bvtlw9kJdvgiEaVsLENPCXOpoWw.mp4",
+      "bytes": 525811
+    },
+    {
+      "path": "assets/media/csdZvthVjaBDQPqkcKlQrTeXuSs.png",
+      "source": "assets/media/csdZvthVjaBDQPqkcKlQrTeXuSs.png",
+      "bytes": 456993
+    },
+    {
+      "path": "assets/media/czAF3rjt7SqbWI7YGgcgFzizPo.png",
+      "source": "assets/media/czAF3rjt7SqbWI7YGgcgFzizPo.png",
+      "bytes": 24586
+    },
+    {
+      "path": "assets/media/dPUHdsQgW0acaFgEKR5KjUx4YI.png",
+      "source": "assets/media/dPUHdsQgW0acaFgEKR5KjUx4YI.png",
+      "bytes": 454754
+    },
+    {
+      "path": "assets/media/default-favicon-dark.v1.png",
+      "source": "assets/media/default-favicon-dark.v1.png",
+      "bytes": 227
+    },
+    {
+      "path": "assets/media/default-favicon-light.v1.png",
+      "source": "assets/media/default-favicon-light.v1.png",
+      "bytes": 223
+    },
+    {
+      "path": "assets/media/default-touch-icon.v3.png",
+      "source": "assets/media/default-touch-icon.v3.png",
+      "bytes": 8598
+    },
+    {
+      "path": "assets/media/dhDcreBzYkirgPnKyUctvGCQ8.png",
+      "source": "assets/media/dhDcreBzYkirgPnKyUctvGCQ8.png",
+      "bytes": 185270
+    },
+    {
+      "path": "assets/media/dw14tVcy0sGOZHs64cNDlFZzaU.jpeg",
+      "source": "assets/media/dw14tVcy0sGOZHs64cNDlFZzaU.jpeg",
+      "bytes": 99661
+    },
+    {
+      "path": "assets/media/eHmReQYkjx2ohyCbdQIAW4PrzS0.png",
+      "source": "assets/media/eHmReQYkjx2ohyCbdQIAW4PrzS0.png",
+      "bytes": 45350
+    },
+    {
+      "path": "assets/media/epGJAYLWvkVClt78NMSU7rcEhA.png",
+      "source": "assets/media/epGJAYLWvkVClt78NMSU7rcEhA.png",
+      "bytes": 104031
+    },
+    {
+      "path": "assets/media/fVaRW5a9wUCFSnZjXQanngAfSU.png",
+      "source": "assets/media/fVaRW5a9wUCFSnZjXQanngAfSU.png",
+      "bytes": 61449
+    },
+    {
+      "path": "assets/media/g9FBqUodfcMatt2LjnQPfgqU14.mp4",
+      "source": "assets/media/g9FBqUodfcMatt2LjnQPfgqU14.mp4",
+      "bytes": 4693911
+    },
+    {
+      "path": "assets/media/gDJpviR8xDnNIyTUJvagKHLrQ.png",
+      "source": "assets/media/gDJpviR8xDnNIyTUJvagKHLrQ.png",
+      "bytes": 16868
+    },
+    {
+      "path": "assets/media/gHtcepFRb1CX38q5Hpg9MQnvPw.png",
+      "source": "assets/media/gHtcepFRb1CX38q5Hpg9MQnvPw.png",
+      "bytes": 41646
+    },
+    {
+      "path": "assets/media/gwkCBJP5qlqxhANBIs4wRCurgVU.png",
+      "source": "assets/media/gwkCBJP5qlqxhANBIs4wRCurgVU.png",
+      "bytes": 1170
+    },
+    {
+      "path": "assets/media/hCjxYSRQEwDbndSIpzHSqkBRo.png",
+      "source": "assets/media/hCjxYSRQEwDbndSIpzHSqkBRo.png",
+      "bytes": 92091
+    },
+    {
+      "path": "assets/media/hK9zEPXrmnhZYy59Py8GCcQELg.png",
+      "source": "assets/media/hK9zEPXrmnhZYy59Py8GCcQELg.png",
+      "bytes": 22300
+    },
+    {
+      "path": "assets/media/hlZux5csaiXe57H6WjTYeUgdWk.mp4",
+      "source": "assets/media/hlZux5csaiXe57H6WjTYeUgdWk.mp4",
+      "bytes": 3351300
+    },
+    {
+      "path": "assets/media/iSZDfYYz76tkMK0SkLmiPeMy8MU.mp4",
+      "source": "assets/media/iSZDfYYz76tkMK0SkLmiPeMy8MU.mp4",
+      "bytes": 521748
+    },
+    {
+      "path": "assets/media/imf-captions.vtt",
+      "source": "assets/media/imf-captions.vtt",
+      "bytes": 82
+    },
+    {
+      "path": "assets/media/imf-captions.zh-CN.vtt",
+      "source": "assets/media/imf-captions.zh-CN.vtt",
+      "bytes": 71
+    },
+    {
+      "path": "assets/media/imf-slide-01.jpg",
+      "source": "assets/media/imf-slide-01.jpg",
+      "bytes": 80895
+    },
+    {
+      "path": "assets/media/imf-slide-02.jpg",
+      "source": "assets/media/imf-slide-02.jpg",
+      "bytes": 74860
+    },
+    {
+      "path": "assets/media/imf-slide-03.jpg",
+      "source": "assets/media/imf-slide-03.jpg",
+      "bytes": 41608
+    },
+    {
+      "path": "assets/media/imf-slide-04.jpg",
+      "source": "assets/media/imf-slide-04.jpg",
+      "bytes": 53290
+    },
+    {
+      "path": "assets/media/imf-slide-05.jpg",
+      "source": "assets/media/imf-slide-05.jpg",
+      "bytes": 52543
+    },
+    {
+      "path": "assets/media/iq89gi90k7ePzuW2qC8bxhAzNGg.png",
+      "source": "assets/media/iq89gi90k7ePzuW2qC8bxhAzNGg.png",
+      "bytes": 19465
+    },
+    {
+      "path": "assets/media/jsyzN4IxBKMoG6FVJeBtio7Dc.png",
+      "source": "assets/media/jsyzN4IxBKMoG6FVJeBtio7Dc.png",
+      "bytes": 161251
+    },
+    {
+      "path": "assets/media/kQRzvSi1sZ9YBIhWjVHnBfEWrac.png",
+      "source": "assets/media/kQRzvSi1sZ9YBIhWjVHnBfEWrac.png",
+      "bytes": 1109875
+    },
+    {
+      "path": "assets/media/kmh1DT7d65xRvtjUB0fHHnv5v8.png",
+      "source": "assets/media/kmh1DT7d65xRvtjUB0fHHnv5v8.png",
+      "bytes": 30125
+    },
+    {
+      "path": "assets/media/kpzonaTWXVRDEOXc0tI79Jiew.png",
+      "source": "assets/media/kpzonaTWXVRDEOXc0tI79Jiew.png",
+      "bytes": 303646
+    },
+    {
+      "path": "assets/media/l6jB4TJ1zQf18muIHoInr10aXqc.mp4",
+      "source": "assets/media/l6jB4TJ1zQf18muIHoInr10aXqc.mp4",
+      "bytes": 259510
+    },
+    {
+      "path": "assets/media/l8ayjWbiVKGkT5l7N05JRIyGvY.png",
+      "source": "assets/media/l8ayjWbiVKGkT5l7N05JRIyGvY.png",
+      "bytes": 86774
+    },
+    {
+      "path": "assets/media/lQiCLMYkCCMSHcx2SqHpokeLZU.png",
+      "source": "assets/media/lQiCLMYkCCMSHcx2SqHpokeLZU.png",
+      "bytes": 149673
+    },
+    {
+      "path": "assets/media/mCjqHYU16AWWdfkHF9ph9pMIHJ0.png",
+      "source": "assets/media/mCjqHYU16AWWdfkHF9ph9pMIHJ0.png",
+      "bytes": 108917
+    },
+    {
+      "path": "assets/media/maxresdefault.webp",
+      "source": "assets/media/maxresdefault.webp",
+      "bytes": 127432
+    },
+    {
+      "path": "assets/media/mckphUHR4RGKqACTGecYXIDLg.png",
+      "source": "assets/media/mckphUHR4RGKqACTGecYXIDLg.png",
+      "bytes": 16982
+    },
+    {
+      "path": "assets/media/otYj0R42OWXf7Ep8WgyeYI00DY.png",
+      "source": "assets/media/otYj0R42OWXf7Ep8WgyeYI00DY.png",
+      "bytes": 55954
+    },
+    {
+      "path": "assets/media/p2CF11RqEKtZTLLPwnGjPPcJnjY.png",
+      "source": "assets/media/p2CF11RqEKtZTLLPwnGjPPcJnjY.png",
+      "bytes": 113405
+    },
+    {
+      "path": "assets/media/pWd7XCLSlBrVbxrHs6QNBSOFWGY.png",
+      "source": "assets/media/pWd7XCLSlBrVbxrHs6QNBSOFWGY.png",
+      "bytes": 10655
+    },
+    {
+      "path": "assets/media/q8QUSAamPVjaourKcjPljdnDDs.jpeg",
+      "source": "assets/media/q8QUSAamPVjaourKcjPljdnDDs.jpeg",
+      "bytes": 194928
+    },
+    {
+      "path": "assets/media/qGmt4IKAd8OkUEsMBFLRmqk1xU0.mp4",
+      "source": "assets/media/qGmt4IKAd8OkUEsMBFLRmqk1xU0.mp4",
+      "bytes": 289873
+    },
+    {
+      "path": "assets/media/rF8YwZG1MPgYo9mIJuol9VMDifc.png",
+      "source": "assets/media/rF8YwZG1MPgYo9mIJuol9VMDifc.png",
+      "bytes": 1130
+    },
+    {
+      "path": "assets/media/rNy7ej0JuTnbhCgHIREQKfICh2w.png",
+      "source": "assets/media/rNy7ej0JuTnbhCgHIREQKfICh2w.png",
+      "bytes": 51182
+    },
+    {
+      "path": "assets/media/rRCesxsuHqQ4KTv8ljsVVM04Xk.mp4",
+      "source": "assets/media/rRCesxsuHqQ4KTv8ljsVVM04Xk.mp4",
+      "bytes": 531267
+    },
+    {
+      "path": "assets/media/rhmmgOJG5mW74Y9oEDR1bGfAtTM.png",
+      "source": "assets/media/rhmmgOJG5mW74Y9oEDR1bGfAtTM.png",
+      "bytes": 65406
+    },
+    {
+      "path": "assets/media/rmwhtYBvSpIV42uadNHg6BxO5zQ.png",
+      "source": "assets/media/rmwhtYBvSpIV42uadNHg6BxO5zQ.png",
+      "bytes": 2216
+    },
+    {
+      "path": "assets/media/sTA6vPk07tsLnpbk4er7N817c.png",
+      "source": "assets/media/sTA6vPk07tsLnpbk4er7N817c.png",
+      "bytes": 34617
+    },
+    {
+      "path": "assets/media/tQXbMv5zJjlgAN0Dz0hRvmmgDz4.png",
+      "source": "assets/media/tQXbMv5zJjlgAN0Dz0hRvmmgDz4.png",
+      "bytes": 53666
+    },
+    {
+      "path": "assets/media/usjr1qnmkcP4rlw75XPPu3OIozU.mp4",
+      "source": "assets/media/usjr1qnmkcP4rlw75XPPu3OIozU.mp4",
+      "bytes": 196554
+    },
+    {
+      "path": "assets/media/vA6FPHLH4zMA1iKGtdjUifeVo.png",
+      "source": "assets/media/vA6FPHLH4zMA1iKGtdjUifeVo.png",
+      "bytes": 19176
+    },
+    {
+      "path": "assets/media/vimeo-1060027149-poster.jpg",
+      "source": "assets/media/vimeo-1060027149-poster.jpg",
+      "bytes": 75796
+    },
+    {
+      "path": "assets/media/vimeo-1060027149.mp4",
+      "source": "assets/media/vimeo-1060027149.mp4",
+      "bytes": 5283431
+    },
+    {
+      "path": "assets/media/vimeo-1060035681-poster.jpg",
+      "source": "assets/media/vimeo-1060035681-poster.jpg",
+      "bytes": 45335
+    },
+    {
+      "path": "assets/media/vimeo-1060035681-preview.mp4",
+      "source": "assets/media/vimeo-1060035681-preview.mp4",
+      "bytes": 10831415
+    },
+    {
+      "path": "assets/media/vimeo-1060035681.mp4",
+      "source": "assets/media/vimeo-1060035681.mp4",
+      "bytes": 22937538
+    },
+    {
+      "path": "assets/media/vtHJeIw4fQkOho7vTRiQUngjAXU.mp4",
+      "source": "assets/media/vtHJeIw4fQkOho7vTRiQUngjAXU.mp4",
+      "bytes": 78735
+    },
+    {
+      "path": "assets/media/wqJSCTKp3FLznnrwlD3ZXyCEz8k.png",
+      "source": "assets/media/wqJSCTKp3FLznnrwlD3ZXyCEz8k.png",
+      "bytes": 19373
+    },
+    {
+      "path": "assets/media/wqnbdMCEEAiZ5dwpcECl5zLAKo.png",
+      "source": "assets/media/wqnbdMCEEAiZ5dwpcECl5zLAKo.png",
+      "bytes": 298625
+    },
+    {
+      "path": "assets/media/xHn39FZAdeZvCxD02pUygT3JIcE.mp4",
+      "source": "assets/media/xHn39FZAdeZvCxD02pUygT3JIcE.mp4",
+      "bytes": 399578
+    },
+    {
+      "path": "assets/media/xKPEFw6aawaEVQlfeidetedKk.jpg",
+      "source": "assets/media/xKPEFw6aawaEVQlfeidetedKk.jpg",
+      "bytes": 163124
+    },
+    {
+      "path": "assets/media/xS5Mp4KvLD6SYDxQiPCk5vobPk.png",
+      "source": "assets/media/xS5Mp4KvLD6SYDxQiPCk5vobPk.png",
+      "bytes": 147769
+    },
+    {
+      "path": "assets/media/xgF4tBAUyAaFW6ruAJ1PG1kbpU.png",
+      "source": "assets/media/xgF4tBAUyAaFW6ruAJ1PG1kbpU.png",
+      "bytes": 968405
+    },
+    {
+      "path": "assets/media/zZhnMQpJrD5Kgj6sBWEsbLFjqk.png",
+      "source": "assets/media/zZhnMQpJrD5Kgj6sBWEsbLFjqk.png",
+      "bytes": 1481
+    },
+    {
+      "path": "assets/media/zuNK3N7GhIsaQhfeMlAGiO9UInk.png",
+      "source": "assets/media/zuNK3N7GhIsaQhfeMlAGiO9UInk.png",
+      "bytes": 130027
+    },
+    {
+      "path": "charter/index.html",
+      "source": "charter.html",
+      "bytes": 92840
+    },
+    {
+      "path": "charter.html",
+      "source": "charter.html",
+      "bytes": 92840
+    },
+    {
+      "path": "charter.rsc",
+      "source": "charter.rsc",
+      "bytes": 48609
+    },
+    {
+      "path": "copilot/index.html",
+      "source": "copilot.html",
+      "bytes": 50196
+    },
+    {
+      "path": "copilot.html",
+      "source": "copilot.html",
+      "bytes": 50196
+    },
+    {
+      "path": "copilot.rsc",
+      "source": "copilot.rsc",
+      "bytes": 25737
+    },
+    {
+      "path": "customer-service/index.html",
+      "source": "customer-service.html",
+      "bytes": 57548
+    },
+    {
+      "path": "customer-service.html",
+      "source": "customer-service.html",
+      "bytes": 57548
+    },
+    {
+      "path": "customer-service.rsc",
+      "source": "customer-service.rsc",
+      "bytes": 26730
+    },
+    {
+      "path": "discovery/index.html",
+      "source": "discovery.html",
+      "bytes": 46979
+    },
+    {
+      "path": "discovery.html",
+      "source": "discovery.html",
+      "bytes": 46979
+    },
+    {
+      "path": "discovery.rsc",
+      "source": "discovery.rsc",
+      "bytes": 21894
+    },
+    {
+      "path": "imf/index.html",
+      "source": "imf.html",
+      "bytes": 23024
+    },
+    {
+      "path": "imf.html",
+      "source": "imf.html",
+      "bytes": 23024
+    },
+    {
+      "path": "imf.rsc",
+      "source": "imf.rsc",
+      "bytes": 9716
+    },
+    {
+      "path": "index.html",
+      "source": "index.html",
+      "bytes": 35905
+    },
+    {
+      "path": "index.rsc",
+      "source": "index.rsc",
+      "bytes": 17290
+    },
+    {
+      "path": "motion/index.html",
+      "source": "motion.html",
+      "bytes": 72821
+    },
+    {
+      "path": "motion.html",
+      "source": "motion.html",
+      "bytes": 72821
+    },
+    {
+      "path": "motion.rsc",
+      "source": "motion.rsc",
+      "bytes": 37255
+    },
+    {
+      "path": "prototypes/phase1/assets/6f8999842117e5699cea19a11a197c3951fe7209-CbhcV0Ko.png",
+      "source": "prototypes/phase1/assets/6f8999842117e5699cea19a11a197c3951fe7209-CbhcV0Ko.png",
+      "bytes": 1197619
+    },
+    {
+      "path": "prototypes/phase1/assets/9608ac03ffc8107f7435fcbe28ab039031f9d6ab-B2IZVtP0.png",
+      "source": "prototypes/phase1/assets/9608ac03ffc8107f7435fcbe28ab039031f9d6ab-B2IZVtP0.png",
+      "bytes": 14848
+    },
+    {
+      "path": "prototypes/phase1/assets/figma/icons/ansys-ai-logo.png",
+      "source": "prototypes/phase1/assets/figma/icons/ansys-ai-logo.png",
+      "bytes": 1187
+    },
+    {
+      "path": "prototypes/phase1/assets/figma/icons/arrow-up.svg",
+      "source": "prototypes/phase1/assets/figma/icons/arrow-up.svg",
+      "bytes": 357
+    },
+    {
+      "path": "prototypes/phase1/assets/figma/icons/chevron-down.svg",
+      "source": "prototypes/phase1/assets/figma/icons/chevron-down.svg",
+      "bytes": 284
+    },
+    {
+      "path": "prototypes/phase1/assets/image-DozNkmXY.png",
+      "source": "prototypes/phase1/assets/image-DozNkmXY.png",
+      "bytes": 17653
+    },
+    {
+      "path": "prototypes/phase1/assets/index-DAHeCsci.js",
+      "source": "prototypes/phase1/assets/index-DAHeCsci.js",
+      "bytes": 921525
+    },
+    {
+      "path": "prototypes/phase1/assets/index-DKSdgVJ2.css",
+      "source": "prototypes/phase1/assets/index-DKSdgVJ2.css",
+      "bytes": 141741
+    },
+    {
+      "path": "prototypes/phase1/assets/left-DX2YK8zl.png",
+      "source": "prototypes/phase1/assets/left-DX2YK8zl.png",
+      "bytes": 28039
+    },
+    {
+      "path": "prototypes/phase1/assets/right-DxGW8Nsw.png",
+      "source": "prototypes/phase1/assets/right-DxGW8Nsw.png",
+      "bytes": 21054
+    },
+    {
+      "path": "prototypes/phase1/assets/workspace/variation-study/c0bc304c72e4bf752fded006ee0483b100f553a0.png",
+      "source": "prototypes/phase1/assets/workspace/variation-study/c0bc304c72e4bf752fded006ee0483b100f553a0.png",
+      "bytes": 17076
+    },
+    {
+      "path": "prototypes/phase1/assets/workspace/variation-study/d49584f213355636e9a605029b352fd38003f218.svg",
+      "source": "prototypes/phase1/assets/workspace/variation-study/d49584f213355636e9a605029b352fd38003f218.svg",
+      "bytes": 492
+    },
+    {
+      "path": "prototypes/phase1/assets/workspace/variation-study/status-success.svg",
+      "source": "prototypes/phase1/assets/workspace/variation-study/status-success.svg",
+      "bytes": 471
+    },
+    {
+      "path": "prototypes/phase1/assets/workspace/variation-study/toolbar-row.png",
+      "source": "prototypes/phase1/assets/workspace/variation-study/toolbar-row.png",
+      "bytes": 9256
+    },
+    {
+      "path": "prototypes/phase1/index.html",
+      "source": "prototypes/phase1/index.html",
+      "bytes": 853
+    },
+    {
+      "path": "prototypes/phase1/manifest.json",
+      "source": "prototypes/phase1/manifest.json",
+      "bytes": 5157
+    },
+    {
+      "path": "prototypes/phase3/assets/figma/icons/chevron-down.svg",
+      "source": "prototypes/phase3/assets/figma/icons/chevron-down.svg",
+      "bytes": 284
+    },
+    {
+      "path": "prototypes/phase3/assets/image-DozNkmXY.png",
+      "source": "prototypes/phase3/assets/image-DozNkmXY.png",
+      "bytes": 17653
+    },
+    {
+      "path": "prototypes/phase3/assets/index-4wY0PByp.css",
+      "source": "prototypes/phase3/assets/index-4wY0PByp.css",
+      "bytes": 167922
+    },
+    {
+      "path": "prototypes/phase3/assets/index-DiuLOObs.js",
+      "source": "prototypes/phase3/assets/index-DiuLOObs.js",
+      "bytes": 741307
+    },
+    {
+      "path": "prototypes/phase3/index.html",
+      "source": "prototypes/phase3/index.html",
+      "bytes": 830
+    },
+    {
+      "path": "prototypes/phase3/manifest.json",
+      "source": "prototypes/phase3/manifest.json",
+      "bytes": 1633
+    },
+    {
+      "path": "service/index.html",
+      "source": "service.html",
+      "bytes": 21741
+    },
+    {
+      "path": "service.html",
+      "source": "service.html",
+      "bytes": 21741
+    },
+    {
+      "path": "service.rsc",
+      "source": "service.rsc",
+      "bytes": 9449
+    },
+    {
+      "path": "ui/index.html",
+      "source": "ui.html",
+      "bytes": 22270
+    },
+    {
+      "path": "ui.html",
+      "source": "ui.html",
+      "bytes": 22270
+    },
+    {
+      "path": "ui.rsc",
+      "source": "ui.rsc",
+      "bytes": 10039
+    },
+    {
+      "path": "vinext-client-entry-manifest.json",
+      "source": "vinext-client-entry-manifest.json",
+      "bytes": 65
+    },
+    {
+      "path": "zh/about/index.html",
+      "source": "zh/about.html",
+      "bytes": 26723
+    },
+    {
+      "path": "zh/about.html",
+      "source": "zh/about.html",
+      "bytes": 26723
+    },
+    {
+      "path": "zh/about.rsc",
+      "source": "zh/about.rsc",
+      "bytes": 8011
+    },
+    {
+      "path": "zh/charter/index.html",
+      "source": "zh/charter.html",
+      "bytes": 91647
+    },
+    {
+      "path": "zh/charter.html",
+      "source": "zh/charter.html",
+      "bytes": 91647
+    },
+    {
+      "path": "zh/charter.rsc",
+      "source": "zh/charter.rsc",
+      "bytes": 47976
+    },
+    {
+      "path": "zh/copilot/index.html",
+      "source": "zh/copilot.html",
+      "bytes": 49596
+    },
+    {
+      "path": "zh/copilot.html",
+      "source": "zh/copilot.html",
+      "bytes": 49596
+    },
+    {
+      "path": "zh/copilot.rsc",
+      "source": "zh/copilot.rsc",
+      "bytes": 25403
+    },
+    {
+      "path": "zh/customer-service/index.html",
+      "source": "zh/customer-service.html",
+      "bytes": 56332
+    },
+    {
+      "path": "zh/customer-service.html",
+      "source": "zh/customer-service.html",
+      "bytes": 56332
+    },
+    {
+      "path": "zh/customer-service.rsc",
+      "source": "zh/customer-service.rsc",
+      "bytes": 26291
+    },
+    {
+      "path": "zh/discovery/index.html",
+      "source": "zh/discovery.html",
+      "bytes": 46148
+    },
+    {
+      "path": "zh/discovery.html",
+      "source": "zh/discovery.html",
+      "bytes": 46148
+    },
+    {
+      "path": "zh/discovery.rsc",
+      "source": "zh/discovery.rsc",
+      "bytes": 21567
+    },
+    {
+      "path": "zh/imf/index.html",
+      "source": "zh/imf.html",
+      "bytes": 22120
+    },
+    {
+      "path": "zh/imf.html",
+      "source": "zh/imf.html",
+      "bytes": 22120
+    },
+    {
+      "path": "zh/imf.rsc",
+      "source": "zh/imf.rsc",
+      "bytes": 9330
+    },
+    {
+      "path": "zh/index.html",
+      "source": "zh.html",
+      "bytes": 35924
+    },
+    {
+      "path": "zh/motion/index.html",
+      "source": "zh/motion.html",
+      "bytes": 72392
+    },
+    {
+      "path": "zh/motion.html",
+      "source": "zh/motion.html",
+      "bytes": 72392
+    },
+    {
+      "path": "zh/motion.rsc",
+      "source": "zh/motion.rsc",
+      "bytes": 37051
+    },
+    {
+      "path": "zh/service/index.html",
+      "source": "zh/service.html",
+      "bytes": 21431
+    },
+    {
+      "path": "zh/service.html",
+      "source": "zh/service.html",
+      "bytes": 21431
+    },
+    {
+      "path": "zh/service.rsc",
+      "source": "zh/service.rsc",
+      "bytes": 9287
+    },
+    {
+      "path": "zh/ui/index.html",
+      "source": "zh/ui.html",
+      "bytes": 21830
+    },
+    {
+      "path": "zh/ui.html",
+      "source": "zh/ui.html",
+      "bytes": 21830
+    },
+    {
+      "path": "zh/ui.rsc",
+      "source": "zh/ui.rsc",
+      "bytes": 9817
+    },
+    {
+      "path": "zh.html",
+      "source": "zh.html",
+      "bytes": 35924
+    },
+    {
+      "path": "zh.rsc",
+      "source": "zh.rsc",
+      "bytes": 17332
+    }
+  ]
+}

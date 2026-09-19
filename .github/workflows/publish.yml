@@ -1,0 +1,39 @@
+name: Recover and publish portfolio
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: portfolio-pages
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Check out published static files
+        uses: actions/checkout@v6
+        with:
+          ref: codex/github-pages
+          persist-credentials: true
+      - name: Recover missing public files and stage the site
+        run: python3 .github/portfolio/recover_and_stage.py .github/portfolio/manifest.json
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
+      - name: Upload only the static site
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: _site
+          include-hidden-files: true
+      - name: Publish GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
