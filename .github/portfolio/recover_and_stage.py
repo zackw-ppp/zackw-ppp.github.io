@@ -114,7 +114,7 @@ def main():
     if git(root, "branch", "--show-current").stdout.strip() != BRANCH:
         raise RuntimeError("Unexpected checkout branch")
     manifest = json.loads(Path(sys.argv[1]).read_text())
-    if manifest.get("version") != 1 or manifest.get("sourceBase") != BASE or len(manifest.get("files", [])) != 380:
+    if manifest.get("version") != 1 or manifest.get("sourceBase") != BASE or len(manifest.get("files", [])) != 393:
         raise ValueError("Unexpected deployment manifest")
     entries = manifest["files"]
     seen = set()
