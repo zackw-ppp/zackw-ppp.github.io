@@ -1,0 +1,110 @@
+{
+  "source": "https://ansys-copilot-phase1.vercel.app/",
+  "files": [
+    {
+      "source": "https://ansys-copilot-phase1.vercel.app/",
+      "localPath": "/prototypes/phase1/index.html",
+      "bytes": 853,
+      "sha256": "10cc72f95e159d544855135157cc9bf86f6c9dba635af25baba3e5902435c460",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "source": "https://ansys-copilot-phase1.vercel.app/assets/index-DAHeCsci.js",
+      "localPath": "/prototypes/phase1/assets/index-DAHeCsci.js",
+      "bytes": 921525,
+      "sha256": "535c83afc2be4790d434520871e055dac2552ea9b1fec60e3bd3e0d1491b6670",
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "source": "https://ansys-copilot-phase1.vercel.app/assets/index-DKSdgVJ2.css",
+      "localPath": "/prototypes/phase1/assets/index-DKSdgVJ2.css",
+      "bytes": 134523,
+      "sha256": "ef06470cb12c0f1a922ce6906779e8d8446c8776449fc0ac1edc64003b9252f9",
+      "contentType": "text/css; charset=utf-8"
+    },
+    {
+      "source": "https://ansys-copilot-phase1.vercel.app/assets/figma/icons/ansys-ai-logo.png",
+      "localPath": "/prototypes/phase1/assets/figma/icons/ansys-ai-logo.png",
+      "bytes": 1187,
+      "sha256": "63c372cf0cb712a4aa3a5cf894e0036649ee687d9e77e1f87e2728bfcd88858c",
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://ansys-copilot-phase1.vercel.app/assets/figma/icons/arrow-up.svg",
+      "localPath": "/prototypes/phase1/assets/figma/icons/arrow-up.svg",
+      "bytes": 357,
+      "sha256": "92d2db39b4f41de154e8480b5c24d90ba5c658f8c04ff8329f3b1dbe2d4e8909",
+      "contentType": "image/svg+xml"
+    },
+    {
+      "source": "https://ansys-copilot-phase1.vercel.app/assets/9608ac03ffc8107f7435fcbe28ab039031f9d6ab-B2IZVtP0.png",
+      "localPath": "/prototypes/phase1/assets/9608ac03ffc8107f7435fcbe28ab039031f9d6ab-B2IZVtP0.png",
+      "bytes": 14848,
+      "sha256": "9b65133870317daed72332df677cee7e38cab14e4b4d0435aaa3832efa4a2126",
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://ansys-copilot-phase1.vercel.app/assets/image-DozNkmXY.png",
+      "localPath": "/prototypes/phase1/assets/image-DozNkmXY.png",
+      "bytes": 17653,
+      "sha256": "700429bfb5ee151aa29330fb25cc965d56c540c05d5c3bd8ee062bc9b647bc69",
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://ansys-copilot-phase1.vercel.app/assets/left-DX2YK8zl.png",
+      "localPath": "/prototypes/phase1/assets/left-DX2YK8zl.png",
+      "bytes": 28039,
+      "sha256": "b97295624280de3878de7417e79c2758965f3f6e56a5aec940a5010a0f5ddcaf",
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://ansys-copilot-phase1.vercel.app/assets/right-DxGW8Nsw.png",
+      "localPath": "/prototypes/phase1/assets/right-DxGW8Nsw.png",
+      "bytes": 21054,
+      "sha256": "a4c7e0e3ee80774aa1a0d0a1e7b48ed0f938d70005349688ec9548792e0c0396",
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://ansys-copilot-phase1.vercel.app/assets/6f8999842117e5699cea19a11a197c3951fe7209-CbhcV0Ko.png",
+      "localPath": "/prototypes/phase1/assets/6f8999842117e5699cea19a11a197c3951fe7209-CbhcV0Ko.png",
+      "bytes": 1197619,
+      "sha256": "9d21330276cda4429098430c45ad330d68c4a6c567a37d3f7fa1d016d256e992",
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://ansys-copilot-phase1.vercel.app/assets/workspace/variation-study/c0bc304c72e4bf752fded006ee0483b100f553a0.png",
+      "localPath": "/prototypes/phase1/assets/workspace/variation-study/c0bc304c72e4bf752fded006ee0483b100f553a0.png",
+      "bytes": 17076,
+      "sha256": "bf7336b5bde36863170d2f3c068516f4bca8e8eef59e4564fce5e1bb5e6a889c",
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://ansys-copilot-phase1.vercel.app/assets/workspace/variation-study/toolbar-row.png",
+      "localPath": "/prototypes/phase1/assets/workspace/variation-study/toolbar-row.png",
+      "bytes": 9256,
+      "sha256": "df3cf1264b93a222f755b07e67e49fc40aaf9645682e8248f5e525b11f4df654",
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://ansys-copilot-phase1.vercel.app/assets/workspace/variation-study/d49584f213355636e9a605029b352fd38003f218.svg",
+      "localPath": "/prototypes/phase1/assets/workspace/variation-study/d49584f213355636e9a605029b352fd38003f218.svg",
+      "bytes": 492,
+      "sha256": "3697cf7b5318736c5c9dffdc231b97f831e3166e27c41d88257cd87a7275a126",
+      "contentType": "image/svg+xml"
+    },
+    {
+      "source": "https://ansys-copilot-phase1.vercel.app/assets/workspace/variation-study/status-success.svg",
+      "localPath": "/prototypes/phase1/assets/workspace/variation-study/status-success.svg",
+      "bytes": 471,
+      "sha256": "477eeb4687eea6ccc8bd4bda8f66f645daed31447659d8b441355aef4db9c450",
+      "contentType": "image/svg+xml"
+    },
+    {
+      "source": "https://ansys-copilot-phase1.vercel.app/assets/figma/icons/chevron-down.svg",
+      "localPath": "/prototypes/phase1/assets/figma/icons/chevron-down.svg",
+      "bytes": 284,
+      "sha256": "856b0e4d4c98596b02ce2bbcd5916f3303222ff86379d69ba108d9dcfa0fd0dd",
+      "contentType": "image/svg+xml"
+    }
+  ]
+}

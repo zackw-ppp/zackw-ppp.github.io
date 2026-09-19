@@ -1,0 +1,40 @@
+{
+  "source": "https://ansys-copilot-phase3.vercel.app/",
+  "files": [
+    {
+      "source": "https://ansys-copilot-phase3.vercel.app/",
+      "localPath": "/prototypes/phase3/index.html",
+      "bytes": 830,
+      "sha256": "b88149c02a5dcb71058696880aa47bfe633b0cc531e2aabb95d2182642bde65e",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "source": "https://ansys-copilot-phase3.vercel.app/assets/index-DiuLOObs.js",
+      "localPath": "/prototypes/phase3/assets/index-DiuLOObs.js",
+      "bytes": 741307,
+      "sha256": "805b93fb9dfeeef50aac681fb1f597edc27e300993a9bf8934c4040d0c0c4b8e",
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "source": "https://ansys-copilot-phase3.vercel.app/assets/index-4wY0PByp.css",
+      "localPath": "/prototypes/phase3/assets/index-4wY0PByp.css",
+      "bytes": 160704,
+      "sha256": "621ddb89cf45d78f34773ca9bca059e278fa6ae5ca68df126d9014f71d17469c",
+      "contentType": "text/css; charset=utf-8"
+    },
+    {
+      "source": "https://ansys-copilot-phase3.vercel.app/assets/image-DozNkmXY.png",
+      "localPath": "/prototypes/phase3/assets/image-DozNkmXY.png",
+      "bytes": 17653,
+      "sha256": "700429bfb5ee151aa29330fb25cc965d56c540c05d5c3bd8ee062bc9b647bc69",
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://ansys-copilot-phase3.vercel.app/assets/figma/icons/chevron-down.svg",
+      "localPath": "/prototypes/phase3/assets/figma/icons/chevron-down.svg",
+      "bytes": 284,
+      "sha256": "856b0e4d4c98596b02ce2bbcd5916f3303222ff86379d69ba108d9dcfa0fd0dd",
+      "contentType": "image/svg+xml"
+    }
+  ]
+}
