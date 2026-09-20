@@ -15,7 +15,7 @@ from urllib.error import HTTPError, URLError
 from urllib.parse import quote, urlsplit
 from urllib.request import HTTPRedirectHandler, Request, build_opener
 
-BASE = "https://ec0b540d.zackwang.pages.dev"
+BASE = "https://fa92bc49.zackwang.pages.dev"
 REPOSITORY = "zackw-ppp/zackw-ppp.github.io"
 BRANCH = "codex/github-pages"
 
@@ -114,7 +114,7 @@ def main():
     if git(root, "branch", "--show-current").stdout.strip() != BRANCH:
         raise RuntimeError("Unexpected checkout branch")
     manifest = json.loads(Path(sys.argv[1]).read_text())
-    if manifest.get("version") != 1 or manifest.get("sourceBase") != BASE or len(manifest.get("files", [])) != 393:
+    if manifest.get("version") != 1 or manifest.get("sourceBase") != BASE or len(manifest.get("files", [])) != 378:
         raise ValueError("Unexpected deployment manifest")
     entries = manifest["files"]
     seen = set()

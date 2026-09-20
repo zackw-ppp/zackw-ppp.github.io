@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "sourceBase": "https://ec0b540d.zackwang.pages.dev",
+  "sourceBase": "https://fa92bc49.zackwang.pages.dev",
   "files": [
     {
       "path": ".nojekyll",
@@ -13,29 +13,19 @@
       "bytes": 5806
     },
     {
-      "path": "_next/static/5802bff0-9c1b-4025-8f60-2896e642184e/_buildManifest.js",
-      "source": "_next/static/5802bff0-9c1b-4025-8f60-2896e642184e/_buildManifest.js",
+      "path": "_next/static/b06b3c84-0240-437e-ace2-764ed9f7609b/_buildManifest.js",
+      "source": "_next/static/b06b3c84-0240-437e-ace2-764ed9f7609b/_buildManifest.js",
       "bytes": 159
     },
     {
-      "path": "_next/static/5802bff0-9c1b-4025-8f60-2896e642184e/_ssgManifest.js",
-      "source": "_next/static/5802bff0-9c1b-4025-8f60-2896e642184e/_ssgManifest.js",
+      "path": "_next/static/b06b3c84-0240-437e-ace2-764ed9f7609b/_ssgManifest.js",
+      "source": "_next/static/b06b3c84-0240-437e-ace2-764ed9f7609b/_ssgManifest.js",
       "bytes": 76
     },
     {
       "path": "_next/static/chunks/AboutPage-C0JJ2thw.js",
       "source": "_next/static/chunks/AboutPage-C0JJ2thw.js",
       "bytes": 9750
-    },
-    {
-      "path": "_next/static/chunks/AboutPage-Cqh_3xPZ.js",
-      "source": "_next/static/chunks/AboutPage-Cqh_3xPZ.js",
-      "bytes": 9750
-    },
-    {
-      "path": "_next/static/chunks/CaseContents-DAyUglnv.js",
-      "source": "_next/static/chunks/CaseContents-DAyUglnv.js",
-      "bytes": 1100
     },
     {
       "path": "_next/static/chunks/CaseContents-sEfKMkES.js",
@@ -48,33 +38,13 @@
       "bytes": 1208
     },
     {
-      "path": "_next/static/chunks/CharterCompare-QU5rFYLL.js",
-      "source": "_next/static/chunks/CharterCompare-QU5rFYLL.js",
-      "bytes": 1208
-    },
-    {
-      "path": "_next/static/chunks/FinalDeliveryToggle-Bji_r-hX.js",
-      "source": "_next/static/chunks/FinalDeliveryToggle-Bji_r-hX.js",
-      "bytes": 692
-    },
-    {
       "path": "_next/static/chunks/FinalDeliveryToggle-Cu1BALq2.js",
       "source": "_next/static/chunks/FinalDeliveryToggle-Cu1BALq2.js",
       "bytes": 692
     },
     {
-      "path": "_next/static/chunks/HomeWorkFilter-CSV1idXB.js",
-      "source": "_next/static/chunks/HomeWorkFilter-CSV1idXB.js",
-      "bytes": 8383
-    },
-    {
-      "path": "_next/static/chunks/HomeWorkFilter-Ci2BzsUT.js",
-      "source": "_next/static/chunks/HomeWorkFilter-Ci2BzsUT.js",
-      "bytes": 8489
-    },
-    {
-      "path": "_next/static/chunks/HomeWorkFilter-CkN0uZS7.js",
-      "source": "_next/static/chunks/HomeWorkFilter-CkN0uZS7.js",
+      "path": "_next/static/chunks/HomeWorkFilter-JOijbRzf.js",
+      "source": "_next/static/chunks/HomeWorkFilter-JOijbRzf.js",
       "bytes": 8601
     },
     {
@@ -83,34 +53,14 @@
       "bytes": 983
     },
     {
-      "path": "_next/static/chunks/ImfVideo-BfCZcpvR.js",
-      "source": "_next/static/chunks/ImfVideo-BfCZcpvR.js",
-      "bytes": 983
-    },
-    {
       "path": "_next/static/chunks/LanguageSwitcher-B6pfVIrC.js",
       "source": "_next/static/chunks/LanguageSwitcher-B6pfVIrC.js",
       "bytes": 2151
     },
     {
-      "path": "_next/static/chunks/LanguageSwitcher-BSW8UZfx.js",
-      "source": "_next/static/chunks/LanguageSwitcher-BSW8UZfx.js",
-      "bytes": 2151
-    },
-    {
-      "path": "_next/static/chunks/RevealController-DNmHSdHp.js",
-      "source": "_next/static/chunks/RevealController-DNmHSdHp.js",
-      "bytes": 898
-    },
-    {
       "path": "_next/static/chunks/RevealController-DOBgPWjU.js",
       "source": "_next/static/chunks/RevealController-DOBgPWjU.js",
       "bytes": 898
-    },
-    {
-      "path": "_next/static/chunks/SiteHeader-C4NuGt9T.js",
-      "source": "_next/static/chunks/SiteHeader-C4NuGt9T.js",
-      "bytes": 3239
     },
     {
       "path": "_next/static/chunks/SiteHeader-CJ1PdMpo.js",
@@ -123,43 +73,18 @@
       "bytes": 1167
     },
     {
-      "path": "_next/static/chunks/ViewportVideo-CBxlLy2O.js",
-      "source": "_next/static/chunks/ViewportVideo-CBxlLy2O.js",
-      "bytes": 1167
-    },
-    {
       "path": "_next/static/chunks/framework-BgSIrAUN.js",
       "source": "_next/static/chunks/framework-BgSIrAUN.js",
       "bytes": 190152
     },
     {
-      "path": "_next/static/chunks/index-BH2BpMSM.js",
-      "source": "_next/static/chunks/index-BH2BpMSM.js",
+      "path": "_next/static/chunks/index-UplXnbFh.js",
+      "source": "_next/static/chunks/index-UplXnbFh.js",
       "bytes": 186461
     },
     {
-      "path": "_next/static/chunks/index-BYYbKY8Q.js",
-      "source": "_next/static/chunks/index-BYYbKY8Q.js",
-      "bytes": 186461
-    },
-    {
-      "path": "_next/static/chunks/index-Dcjc98-u.js",
-      "source": "_next/static/chunks/index-Dcjc98-u.js",
-      "bytes": 186455
-    },
-    {
-      "path": "_next/static/chunks/layout-segment-context-5TkZLHrw.js",
-      "source": "_next/static/chunks/layout-segment-context-5TkZLHrw.js",
-      "bytes": 494
-    },
-    {
-      "path": "_next/static/chunks/layout-segment-context-ClMC8D54.js",
-      "source": "_next/static/chunks/layout-segment-context-ClMC8D54.js",
-      "bytes": 494
-    },
-    {
-      "path": "_next/static/chunks/layout-segment-context-NL54iOhP.js",
-      "source": "_next/static/chunks/layout-segment-context-NL54iOhP.js",
+      "path": "_next/static/chunks/layout-segment-context--Vf2TXsj.js",
+      "source": "_next/static/chunks/layout-segment-context--Vf2TXsj.js",
       "bytes": 494
     },
     {
@@ -168,74 +93,74 @@
       "bytes": 694
     },
     {
-      "path": "_next/static/chunks/ui-copy-BrnqRBv0.js",
-      "source": "_next/static/chunks/ui-copy-BrnqRBv0.js",
-      "bytes": 781
-    },
-    {
       "path": "_next/static/chunks/ui-copy-DyP3WXlX.js",
       "source": "_next/static/chunks/ui-copy-DyP3WXlX.js",
       "bytes": 781
     },
     {
-      "path": "_next/static/css/index.BAgMz_Uh.css",
-      "source": "_next/static/css/index.BAgMz_Uh.css",
-      "bytes": 67791
+      "path": "_next/static/css/index.DdJnpCeI.css",
+      "source": "_next/static/css/index.DdJnpCeI.css",
+      "bytes": 68106
     },
     {
-      "path": "_next/static/css/index.CnFqmEJL.css",
-      "source": "_next/static/css/index.CnFqmEJL.css",
-      "bytes": 67688
+      "path": "_next/static/css/page.B6ICPtN2.css",
+      "source": "_next/static/css/page.B6ICPtN2.css",
+      "bytes": 5067
     },
     {
-      "path": "_next/static/css/page.3C4RFWLA.css",
-      "source": "_next/static/css/page.3C4RFWLA.css",
-      "bytes": 4802
+      "path": "_next/static/css/page.BLGi5da_.css",
+      "source": "_next/static/css/page.BLGi5da_.css",
+      "bytes": 46651
     },
     {
-      "path": "_next/static/css/page.BQ9fdxMV.css",
-      "source": "_next/static/css/page.BQ9fdxMV.css",
-      "bytes": 35972
+      "path": "_next/static/css/page.BM9ZMA3v.css",
+      "source": "_next/static/css/page.BM9ZMA3v.css",
+      "bytes": 5332
     },
     {
-      "path": "_next/static/css/page.BnWDekJv.css",
-      "source": "_next/static/css/page.BnWDekJv.css",
-      "bytes": 14230
+      "path": "_next/static/css/page.Hn-cj0xD.css",
+      "source": "_next/static/css/page.Hn-cj0xD.css",
+      "bytes": 22454
     },
     {
-      "path": "_next/static/css/page.CemYTqvo.css",
-      "source": "_next/static/css/page.CemYTqvo.css",
-      "bytes": 3792
+      "path": "_next/static/css/page.Y1H9ouM5.css",
+      "source": "_next/static/css/page.Y1H9ouM5.css",
+      "bytes": 416
     },
     {
-      "path": "_next/static/css/page.DGivjev_.css",
-      "source": "_next/static/css/page.DGivjev_.css",
-      "bytes": 3717
+      "path": "_next/static/css/page.Y25wg438.css",
+      "source": "_next/static/css/page.Y25wg438.css",
+      "bytes": 11254
     },
     {
-      "path": "_next/static/css/page.LTrK35Vq.css",
-      "source": "_next/static/css/page.LTrK35Vq.css",
-      "bytes": 38851
+      "path": "_next/static/css/page.YjvYnels.css",
+      "source": "_next/static/css/page.YjvYnels.css",
+      "bytes": 15025
     },
     {
-      "path": "_next/static/css/page.c9Dgg_YT.css",
-      "source": "_next/static/css/page.c9Dgg_YT.css",
-      "bytes": 21471
+      "path": "_next/static/css/page.deFn5KX7.css",
+      "source": "_next/static/css/page.deFn5KX7.css",
+      "bytes": 37537
+    },
+    {
+      "path": "_next/static/css/page.xcdqb0Dx.css",
+      "source": "_next/static/css/page.xcdqb0Dx.css",
+      "bytes": 6440
     },
     {
       "path": "about.html",
       "source": "about.html",
-      "bytes": 27252
+      "bytes": 28159
     },
     {
       "path": "about.rsc",
       "source": "about.rsc",
-      "bytes": 8131
+      "bytes": 8665
     },
     {
       "path": "about/index.html",
       "source": "about.html",
-      "bytes": 27252
+      "bytes": 28159
     },
     {
       "path": "assets/fonts/-nFhOHM81r4j6k0gjAW3mujVU2B2G_VB0PD2.woff2",
@@ -1355,27 +1280,27 @@
     {
       "path": "assets/media/imf-slide-01.jpg",
       "source": "assets/media/imf-slide-01.jpg",
-      "bytes": 80895
+      "bytes": 226130
     },
     {
       "path": "assets/media/imf-slide-02.jpg",
       "source": "assets/media/imf-slide-02.jpg",
-      "bytes": 74860
+      "bytes": 183631
     },
     {
       "path": "assets/media/imf-slide-03.jpg",
       "source": "assets/media/imf-slide-03.jpg",
-      "bytes": 41608
+      "bytes": 242598
     },
     {
       "path": "assets/media/imf-slide-04.jpg",
       "source": "assets/media/imf-slide-04.jpg",
-      "bytes": 53290
+      "bytes": 160543
     },
     {
       "path": "assets/media/imf-slide-05.jpg",
       "source": "assets/media/imf-slide-05.jpg",
-      "bytes": 52543
+      "bytes": 226922
     },
     {
       "path": "assets/media/iq89gi90k7ePzuW2qC8bxhAzNGg.png",
@@ -1620,32 +1545,32 @@
     {
       "path": "discovery.html",
       "source": "discovery.html",
-      "bytes": 46979
+      "bytes": 47279
     },
     {
       "path": "discovery.rsc",
       "source": "discovery.rsc",
-      "bytes": 21894
+      "bytes": 21954
     },
     {
       "path": "discovery/index.html",
       "source": "discovery.html",
-      "bytes": 46979
+      "bytes": 47279
     },
     {
       "path": "imf.html",
       "source": "imf.html",
-      "bytes": 23024
+      "bytes": 23040
     },
     {
       "path": "imf.rsc",
       "source": "imf.rsc",
-      "bytes": 9716
+      "bytes": 9724
     },
     {
       "path": "imf/index.html",
       "source": "imf.html",
-      "bytes": 23024
+      "bytes": 23040
     },
     {
       "path": "index.html",
@@ -1660,17 +1585,17 @@
     {
       "path": "motion.html",
       "source": "motion.html",
-      "bytes": 72821
+      "bytes": 73778
     },
     {
       "path": "motion.rsc",
       "source": "motion.rsc",
-      "bytes": 37255
+      "bytes": 37814
     },
     {
       "path": "motion/index.html",
       "source": "motion.html",
-      "bytes": 72821
+      "bytes": 73778
     },
     {
       "path": "prototypes/phase1/assets/6f8999842117e5699cea19a11a197c3951fe7209-CbhcV0Ko.png",
@@ -1800,17 +1725,17 @@
     {
       "path": "ui.html",
       "source": "ui.html",
-      "bytes": 22270
+      "bytes": 22286
     },
     {
       "path": "ui.rsc",
       "source": "ui.rsc",
-      "bytes": 10039
+      "bytes": 10047
     },
     {
       "path": "ui/index.html",
       "source": "ui.html",
-      "bytes": 22270
+      "bytes": 22286
     },
     {
       "path": "vinext-client-entry-manifest.json",
@@ -1830,17 +1755,17 @@
     {
       "path": "zh/about.html",
       "source": "zh/about.html",
-      "bytes": 26723
+      "bytes": 27367
     },
     {
       "path": "zh/about.rsc",
       "source": "zh/about.rsc",
-      "bytes": 8011
+      "bytes": 8306
     },
     {
       "path": "zh/about/index.html",
       "source": "zh/about.html",
-      "bytes": 26723
+      "bytes": 27367
     },
     {
       "path": "zh/charter.html",
@@ -1890,32 +1815,32 @@
     {
       "path": "zh/discovery.html",
       "source": "zh/discovery.html",
-      "bytes": 46148
+      "bytes": 46448
     },
     {
       "path": "zh/discovery.rsc",
       "source": "zh/discovery.rsc",
-      "bytes": 21567
+      "bytes": 21627
     },
     {
       "path": "zh/discovery/index.html",
       "source": "zh/discovery.html",
-      "bytes": 46148
+      "bytes": 46448
     },
     {
       "path": "zh/imf.html",
       "source": "zh/imf.html",
-      "bytes": 22120
+      "bytes": 22136
     },
     {
       "path": "zh/imf.rsc",
       "source": "zh/imf.rsc",
-      "bytes": 9330
+      "bytes": 9338
     },
     {
       "path": "zh/imf/index.html",
       "source": "zh/imf.html",
-      "bytes": 22120
+      "bytes": 22136
     },
     {
       "path": "zh/index.html",
@@ -1925,17 +1850,17 @@
     {
       "path": "zh/motion.html",
       "source": "zh/motion.html",
-      "bytes": 72392
+      "bytes": 73086
     },
     {
       "path": "zh/motion.rsc",
       "source": "zh/motion.rsc",
-      "bytes": 37051
+      "bytes": 37371
     },
     {
       "path": "zh/motion/index.html",
       "source": "zh/motion.html",
-      "bytes": 72392
+      "bytes": 73086
     },
     {
       "path": "zh/service.html",
@@ -1955,41 +1880,17 @@
     {
       "path": "zh/ui.html",
       "source": "zh/ui.html",
-      "bytes": 21830
+      "bytes": 21846
     },
     {
       "path": "zh/ui.rsc",
       "source": "zh/ui.rsc",
-      "bytes": 9817
+      "bytes": 9825
     },
     {
       "path": "zh/ui/index.html",
       "source": "zh/ui.html",
-      "bytes": 21830
+      "bytes": 21846
     }
-  ],
-  "repositoryOnlyFiles": [
-    "_next/static/chunks/AboutPage-Cqh_3xPZ.js",
-    "_next/static/chunks/CaseContents-DAyUglnv.js",
-    "_next/static/chunks/CharterCompare-QU5rFYLL.js",
-    "_next/static/chunks/FinalDeliveryToggle-Bji_r-hX.js",
-    "_next/static/chunks/HomeWorkFilter-Ci2BzsUT.js",
-    "_next/static/chunks/HomeWorkFilter-CkN0uZS7.js",
-    "_next/static/chunks/ImfVideo-BfCZcpvR.js",
-    "_next/static/chunks/LanguageSwitcher-BSW8UZfx.js",
-    "_next/static/chunks/RevealController-DNmHSdHp.js",
-    "_next/static/chunks/SiteHeader-C4NuGt9T.js",
-    "_next/static/chunks/ViewportVideo-CBxlLy2O.js",
-    "_next/static/chunks/index-BH2BpMSM.js",
-    "_next/static/chunks/index-Dcjc98-u.js",
-    "_next/static/chunks/layout-segment-context-5TkZLHrw.js",
-    "_next/static/chunks/layout-segment-context-NL54iOhP.js",
-    "_next/static/chunks/ui-copy-BrnqRBv0.js",
-    "_next/static/css/index.BAgMz_Uh.css",
-    "index.html",
-    "index.rsc",
-    "zh.html",
-    "zh.rsc",
-    "zh/index.html"
   ]
 }
