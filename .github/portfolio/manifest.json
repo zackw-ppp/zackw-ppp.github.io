@@ -68,6 +68,11 @@
       "bytes": 692
     },
     {
+      "path": "_next/static/chunks/HomeWorkFilter--Xc93xPK.js",
+      "source": "_next/static/chunks/HomeWorkFilter--Xc93xPK.js",
+      "bytes": 8567
+    },
+    {
       "path": "_next/static/chunks/HomeWorkFilter-CduI0MNr.js",
       "source": "_next/static/chunks/HomeWorkFilter-CduI0MNr.js",
       "bytes": 8587
@@ -158,6 +163,11 @@
       "bytes": 186455
     },
     {
+      "path": "_next/static/chunks/index-CQfllpx6.js",
+      "source": "_next/static/chunks/index-CQfllpx6.js",
+      "bytes": 186455
+    },
+    {
       "path": "_next/static/chunks/index-ItcFfmZo.js",
       "source": "_next/static/chunks/index-ItcFfmZo.js",
       "bytes": 186455
@@ -200,6 +210,11 @@
     {
       "path": "_next/static/chunks/layout-segment-context-DZUEfBjG.js",
       "source": "_next/static/chunks/layout-segment-context-DZUEfBjG.js",
+      "bytes": 494
+    },
+    {
+      "path": "_next/static/chunks/layout-segment-context-d_beqn8B.js",
+      "source": "_next/static/chunks/layout-segment-context-d_beqn8B.js",
       "bytes": 494
     },
     {
@@ -1318,6 +1333,11 @@
       "bytes": 456993
     },
     {
+      "path": "assets/media/ctrip-official-blue.jpg",
+      "source": "assets/media/ctrip-official-blue.jpg",
+      "bytes": 25365
+    },
+    {
       "path": "assets/media/czAF3rjt7SqbWI7YGgcgFzizPo.png",
       "source": "assets/media/czAF3rjt7SqbWI7YGgcgFzizPo.png",
       "bytes": 24586
@@ -1885,12 +1905,12 @@
     {
       "path": "zh.html",
       "source": "zh.html",
-      "bytes": 35940
+      "bytes": 35896
     },
     {
       "path": "zh.rsc",
       "source": "zh.rsc",
-      "bytes": 17484
+      "bytes": 17462
     },
     {
       "path": "zh/about.html",
@@ -1910,17 +1930,17 @@
     {
       "path": "zh/charter.html",
       "source": "zh/charter.html",
-      "bytes": 91647
+      "bytes": 91615
     },
     {
       "path": "zh/charter.rsc",
       "source": "zh/charter.rsc",
-      "bytes": 47976
+      "bytes": 47960
     },
     {
       "path": "zh/charter/index.html",
       "source": "zh/charter.html",
-      "bytes": 91647
+      "bytes": 91615
     },
     {
       "path": "zh/copilot.html",
@@ -1985,22 +2005,22 @@
     {
       "path": "zh/index.html",
       "source": "zh.html",
-      "bytes": 35940
+      "bytes": 35896
     },
     {
       "path": "zh/motion.html",
       "source": "zh/motion.html",
-      "bytes": 73086
+      "bytes": 73054
     },
     {
       "path": "zh/motion.rsc",
       "source": "zh/motion.rsc",
-      "bytes": 37371
+      "bytes": 37355
     },
     {
       "path": "zh/motion/index.html",
       "source": "zh/motion.html",
-      "bytes": 73086
+      "bytes": 73054
     },
     {
       "path": "zh/service.html",
@@ -2039,6 +2059,7 @@
     "_next/static/chunks/CaseContents-DAyUglnv.js",
     "_next/static/chunks/CharterCompare-QU5rFYLL.js",
     "_next/static/chunks/FinalDeliveryToggle-Bji_r-hX.js",
+    "_next/static/chunks/HomeWorkFilter--Xc93xPK.js",
     "_next/static/chunks/HomeWorkFilter-CduI0MNr.js",
     "_next/static/chunks/HomeWorkFilter-DY_4aYo7.js",
     "_next/static/chunks/ImfVideo-BfCZcpvR.js",
@@ -2050,6 +2071,7 @@
     "_next/static/chunks/index-BpwmyEe3.js",
     "_next/static/chunks/index-BtEB0A7f.js",
     "_next/static/chunks/index-C8OkrAql.js",
+    "_next/static/chunks/index-CQfllpx6.js",
     "_next/static/chunks/index-ItcFfmZo.js",
     "_next/static/chunks/index-YkyvOjuS.js",
     "_next/static/chunks/layout-segment-context-2R67Gxpn.js",
@@ -2057,11 +2079,13 @@
     "_next/static/chunks/layout-segment-context-Cg5rsWCI.js",
     "_next/static/chunks/layout-segment-context-DTPRTJvn.js",
     "_next/static/chunks/layout-segment-context-DZUEfBjG.js",
+    "_next/static/chunks/layout-segment-context-d_beqn8B.js",
     "_next/static/chunks/ui-copy-BrnqRBv0.js",
     "_next/static/css/page.CJpLl_YM.css",
     "_next/static/css/page.CZFSPQHE.css",
     "_next/static/css/page.CrfFLfTv.css",
     "_next/static/css/page.GfViSXgk.css",
+    "assets/media/ctrip-official-blue.jpg",
     "charter.html",
     "charter.rsc",
     "charter/index.html",
@@ -2081,6 +2105,9 @@
     "zh/customer-service.html",
     "zh/customer-service.rsc",
     "zh/customer-service/index.html",
-    "zh/index.html"
+    "zh/index.html",
+    "zh/motion.html",
+    "zh/motion.rsc",
+    "zh/motion/index.html"
   ]
 }
