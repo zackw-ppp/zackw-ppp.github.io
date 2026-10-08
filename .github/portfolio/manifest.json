@@ -33,6 +33,11 @@
       "bytes": 9750
     },
     {
+      "path": "_next/static/chunks/AboutPage-QRxJ9TPS.js",
+      "source": "_next/static/chunks/AboutPage-QRxJ9TPS.js",
+      "bytes": 9790
+    },
+    {
       "path": "_next/static/chunks/CaseContents-DAyUglnv.js",
       "source": "_next/static/chunks/CaseContents-DAyUglnv.js",
       "bytes": 1100
@@ -66,6 +71,11 @@
       "path": "_next/static/chunks/HomeWorkFilter-CduI0MNr.js",
       "source": "_next/static/chunks/HomeWorkFilter-CduI0MNr.js",
       "bytes": 8587
+    },
+    {
+      "path": "_next/static/chunks/HomeWorkFilter-DY_4aYo7.js",
+      "source": "_next/static/chunks/HomeWorkFilter-DY_4aYo7.js",
+      "bytes": 8589
     },
     {
       "path": "_next/static/chunks/HomeWorkFilter-JOijbRzf.js",
@@ -113,6 +123,11 @@
       "bytes": 3239
     },
     {
+      "path": "_next/static/chunks/SiteHeader-CPR85ZDV.js",
+      "source": "_next/static/chunks/SiteHeader-CPR85ZDV.js",
+      "bytes": 3258
+    },
+    {
       "path": "_next/static/chunks/ViewportVideo-BbFH3w0v.js",
       "source": "_next/static/chunks/ViewportVideo-BbFH3w0v.js",
       "bytes": 1167
@@ -128,6 +143,11 @@
       "bytes": 190152
     },
     {
+      "path": "_next/static/chunks/index-BtEB0A7f.js",
+      "source": "_next/static/chunks/index-BtEB0A7f.js",
+      "bytes": 186455
+    },
+    {
       "path": "_next/static/chunks/index-ItcFfmZo.js",
       "source": "_next/static/chunks/index-ItcFfmZo.js",
       "bytes": 186455
@@ -140,6 +160,11 @@
     {
       "path": "_next/static/chunks/layout-segment-context--Vf2TXsj.js",
       "source": "_next/static/chunks/layout-segment-context--Vf2TXsj.js",
+      "bytes": 494
+    },
+    {
+      "path": "_next/static/chunks/layout-segment-context-BzjD5yWW.js",
+      "source": "_next/static/chunks/layout-segment-context-BzjD5yWW.js",
       "bytes": 494
     },
     {
@@ -181,6 +206,11 @@
       "path": "_next/static/css/page.BM9ZMA3v.css",
       "source": "_next/static/css/page.BM9ZMA3v.css",
       "bytes": 5332
+    },
+    {
+      "path": "_next/static/css/page.CrfFLfTv.css",
+      "source": "_next/static/css/page.CrfFLfTv.css",
+      "bytes": 49264
     },
     {
       "path": "_next/static/css/page.Hn-cj0xD.css",
@@ -1810,27 +1840,27 @@
     {
       "path": "zh.html",
       "source": "zh.html",
-      "bytes": 35932
+      "bytes": 35940
     },
     {
       "path": "zh.rsc",
       "source": "zh.rsc",
-      "bytes": 17480
+      "bytes": 17484
     },
     {
       "path": "zh/about.html",
       "source": "zh/about.html",
-      "bytes": 27367
+      "bytes": 27320
     },
     {
       "path": "zh/about.rsc",
       "source": "zh/about.rsc",
-      "bytes": 8306
+      "bytes": 8277
     },
     {
       "path": "zh/about/index.html",
       "source": "zh/about.html",
-      "bytes": 27367
+      "bytes": 27320
     },
     {
       "path": "zh/charter.html",
@@ -1910,7 +1940,7 @@
     {
       "path": "zh/index.html",
       "source": "zh.html",
-      "bytes": 35932
+      "bytes": 35940
     },
     {
       "path": "zh/motion.html",
@@ -1960,22 +1990,37 @@
   ],
   "repositoryOnlyFiles": [
     "_next/static/chunks/AboutPage-Cqh_3xPZ.js",
+    "_next/static/chunks/AboutPage-QRxJ9TPS.js",
     "_next/static/chunks/CaseContents-DAyUglnv.js",
     "_next/static/chunks/CharterCompare-QU5rFYLL.js",
     "_next/static/chunks/FinalDeliveryToggle-Bji_r-hX.js",
     "_next/static/chunks/HomeWorkFilter-CduI0MNr.js",
+    "_next/static/chunks/HomeWorkFilter-DY_4aYo7.js",
     "_next/static/chunks/ImfVideo-BfCZcpvR.js",
     "_next/static/chunks/LanguageSwitcher-BSW8UZfx.js",
     "_next/static/chunks/RevealController-DNmHSdHp.js",
     "_next/static/chunks/SiteHeader-C4NuGt9T.js",
+    "_next/static/chunks/SiteHeader-CPR85ZDV.js",
     "_next/static/chunks/ViewportVideo-CBxlLy2O.js",
+    "_next/static/chunks/index-BtEB0A7f.js",
     "_next/static/chunks/index-ItcFfmZo.js",
+    "_next/static/chunks/layout-segment-context-BzjD5yWW.js",
     "_next/static/chunks/layout-segment-context-DZUEfBjG.js",
     "_next/static/chunks/ui-copy-BrnqRBv0.js",
+    "_next/static/css/page.CrfFLfTv.css",
+    "charter.html",
+    "charter.rsc",
+    "charter/index.html",
     "index.html",
     "index.rsc",
     "zh.html",
     "zh.rsc",
+    "zh/about.html",
+    "zh/about.rsc",
+    "zh/about/index.html",
+    "zh/charter.html",
+    "zh/charter.rsc",
+    "zh/charter/index.html",
     "zh/index.html"
   ]
 }
