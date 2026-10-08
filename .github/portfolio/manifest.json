@@ -168,6 +168,11 @@
       "bytes": 186461
     },
     {
+      "path": "_next/static/chunks/index-YkyvOjuS.js",
+      "source": "_next/static/chunks/index-YkyvOjuS.js",
+      "bytes": 186455
+    },
+    {
       "path": "_next/static/chunks/layout-segment-context--Vf2TXsj.js",
       "source": "_next/static/chunks/layout-segment-context--Vf2TXsj.js",
       "bytes": 494
@@ -180,6 +185,11 @@
     {
       "path": "_next/static/chunks/layout-segment-context-BzjD5yWW.js",
       "source": "_next/static/chunks/layout-segment-context-BzjD5yWW.js",
+      "bytes": 494
+    },
+    {
+      "path": "_next/static/chunks/layout-segment-context-Cg5rsWCI.js",
+      "source": "_next/static/chunks/layout-segment-context-Cg5rsWCI.js",
       "bytes": 494
     },
     {
@@ -226,6 +236,11 @@
       "path": "_next/static/css/page.BM9ZMA3v.css",
       "source": "_next/static/css/page.BM9ZMA3v.css",
       "bytes": 5332
+    },
+    {
+      "path": "_next/static/css/page.CJpLl_YM.css",
+      "source": "_next/static/css/page.CJpLl_YM.css",
+      "bytes": 38489
     },
     {
       "path": "_next/static/css/page.CZFSPQHE.css",
@@ -2036,17 +2051,23 @@
     "_next/static/chunks/index-BtEB0A7f.js",
     "_next/static/chunks/index-C8OkrAql.js",
     "_next/static/chunks/index-ItcFfmZo.js",
+    "_next/static/chunks/index-YkyvOjuS.js",
     "_next/static/chunks/layout-segment-context-2R67Gxpn.js",
     "_next/static/chunks/layout-segment-context-BzjD5yWW.js",
+    "_next/static/chunks/layout-segment-context-Cg5rsWCI.js",
     "_next/static/chunks/layout-segment-context-DTPRTJvn.js",
     "_next/static/chunks/layout-segment-context-DZUEfBjG.js",
     "_next/static/chunks/ui-copy-BrnqRBv0.js",
+    "_next/static/css/page.CJpLl_YM.css",
     "_next/static/css/page.CZFSPQHE.css",
     "_next/static/css/page.CrfFLfTv.css",
     "_next/static/css/page.GfViSXgk.css",
     "charter.html",
     "charter.rsc",
     "charter/index.html",
+    "customer-service.html",
+    "customer-service.rsc",
+    "customer-service/index.html",
     "index.html",
     "index.rsc",
     "zh.html",
@@ -2057,6 +2078,9 @@
     "zh/charter.html",
     "zh/charter.rsc",
     "zh/charter/index.html",
+    "zh/customer-service.html",
+    "zh/customer-service.rsc",
+    "zh/customer-service/index.html",
     "zh/index.html"
   ]
 }
