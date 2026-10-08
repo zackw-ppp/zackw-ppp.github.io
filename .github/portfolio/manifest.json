@@ -143,6 +143,11 @@
       "bytes": 190152
     },
     {
+      "path": "_next/static/chunks/index-BpwmyEe3.js",
+      "source": "_next/static/chunks/index-BpwmyEe3.js",
+      "bytes": 186455
+    },
+    {
       "path": "_next/static/chunks/index-BtEB0A7f.js",
       "source": "_next/static/chunks/index-BtEB0A7f.js",
       "bytes": 186455
@@ -165,6 +170,11 @@
     {
       "path": "_next/static/chunks/layout-segment-context--Vf2TXsj.js",
       "source": "_next/static/chunks/layout-segment-context--Vf2TXsj.js",
+      "bytes": 494
+    },
+    {
+      "path": "_next/static/chunks/layout-segment-context-2R67Gxpn.js",
+      "source": "_next/static/chunks/layout-segment-context-2R67Gxpn.js",
       "bytes": 494
     },
     {
@@ -216,6 +226,11 @@
       "path": "_next/static/css/page.BM9ZMA3v.css",
       "source": "_next/static/css/page.BM9ZMA3v.css",
       "bytes": 5332
+    },
+    {
+      "path": "_next/static/css/page.CZFSPQHE.css",
+      "source": "_next/static/css/page.CZFSPQHE.css",
+      "bytes": 49707
     },
     {
       "path": "_next/static/css/page.CrfFLfTv.css",
@@ -2017,13 +2032,16 @@
     "_next/static/chunks/SiteHeader-C4NuGt9T.js",
     "_next/static/chunks/SiteHeader-CPR85ZDV.js",
     "_next/static/chunks/ViewportVideo-CBxlLy2O.js",
+    "_next/static/chunks/index-BpwmyEe3.js",
     "_next/static/chunks/index-BtEB0A7f.js",
     "_next/static/chunks/index-C8OkrAql.js",
     "_next/static/chunks/index-ItcFfmZo.js",
+    "_next/static/chunks/layout-segment-context-2R67Gxpn.js",
     "_next/static/chunks/layout-segment-context-BzjD5yWW.js",
     "_next/static/chunks/layout-segment-context-DTPRTJvn.js",
     "_next/static/chunks/layout-segment-context-DZUEfBjG.js",
     "_next/static/chunks/ui-copy-BrnqRBv0.js",
+    "_next/static/css/page.CZFSPQHE.css",
     "_next/static/css/page.CrfFLfTv.css",
     "_next/static/css/page.GfViSXgk.css",
     "charter.html",
